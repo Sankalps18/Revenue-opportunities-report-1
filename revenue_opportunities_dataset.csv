@@ -1,0 +1,1001 @@
+OpportunityID,AccountName,Industry,Stage,Region,SalesRep,Product,ExpectedRevenue,Probability,CreatedDate,CloseDate
+1,Soylent,Healthcare,Proposal,Asia,Bob,CRM System,37792,84,2024-05-03,2024-05-13
+2,Wayne Enterprises,Retail,Prospecting,Middle East,Charlie,CRM System,69325,69,2024-06-21,2024-09-08
+3,Hooli,Manufacturing,Negotiation,Middle East,David,Analytics Suite,148765,94,2024-08-27,2024-11-13
+4,Acme Corp,Technology,Proposal,South America,Bob,Cloud Platform,137616,22,2024-04-15,2024-06-04
+5,Umbrella,Healthcare,Proposal,South America,Bob,CRM System,95824,91,2024-06-19,2024-08-12
+6,Umbrella,Retail,Closed Lost,Europe,Frank,Analytics Suite,116905,83,2024-03-20,2024-04-11
+7,Umbrella,Manufacturing,Proposal,Europe,David,Security Package,50125,79,2024-07-16,2024-07-31
+8,Wayne Enterprises,Retail,Proposal,Middle East,Frank,AI Module,39400,76,2024-08-01,2024-08-20
+9,Globex,Technology,Closed Won,South America,Frank,Security Package,91827,75,2024-10-11,2024-11-18
+10,Umbrella,Healthcare,Negotiation,South America,Eva,AI Module,15611,66,2024-10-21,2024-11-01
+11,Hooli,Retail,Closed Lost,Middle East,Charlie,Analytics Suite,34070,29,2024-01-20,2024-05-03
+12,Initech,Retail,Proposal,South America,Alice,Security Package,80100,30,2024-03-17,2024-04-19
+13,Soylent,Retail,Qualification,North America,Alice,Analytics Suite,143704,47,2024-05-17,2024-08-15
+14,Wayne Enterprises,Finance,Proposal,Asia,Alice,AI Module,74941,21,2024-01-27,2024-02-21
+15,Stark Industries,Retail,Closed Lost,North America,Alice,CRM System,112549,28,2024-05-28,2024-07-15
+16,Acme Corp,Healthcare,Closed Won,North America,Alice,Analytics Suite,82778,44,2024-02-06,2024-04-22
+17,Acme Corp,Healthcare,Negotiation,North America,Eva,Cloud Platform,34533,64,2024-06-08,2024-09-21
+18,Soylent,Healthcare,Negotiation,South America,Charlie,CRM System,113666,35,2024-10-24,2025-02-02
+19,Initech,Manufacturing,Proposal,Middle East,Bob,CRM System,144395,92,2024-07-31,2024-11-16
+20,Globex,Retail,Proposal,Europe,Alice,Cloud Platform,20338,53,2024-05-24,2024-07-27
+21,Stark Industries,Technology,Qualification,Asia,David,Security Package,180178,55,2024-06-08,2024-08-19
+22,Wayne Enterprises,Manufacturing,Negotiation,Asia,Alice,Cloud Platform,131375,58,2024-02-17,2024-06-02
+23,Wayne Enterprises,Finance,Negotiation,North America,Eva,CRM System,95208,19,2024-08-31,2024-09-28
+24,Stark Industries,Healthcare,Negotiation,Europe,Charlie,Security Package,72854,37,2024-04-12,2024-07-07
+25,Acme Corp,Finance,Prospecting,Middle East,David,Security Package,65895,33,2024-02-06,2024-03-14
+26,Globex,Manufacturing,Negotiation,Europe,Alice,AI Module,122602,11,2024-08-29,2024-10-25
+27,Hooli,Finance,Negotiation,Europe,Eva,Cloud Platform,78534,64,2024-05-31,2024-09-03
+28,Globex,Manufacturing,Qualification,Asia,Alice,CRM System,166597,29,2024-10-09,2025-01-16
+29,Hooli,Finance,Closed Lost,South America,Alice,Analytics Suite,12525,16,2024-02-18,2024-04-10
+30,Acme Corp,Healthcare,Qualification,North America,David,AI Module,57109,38,2024-04-27,2024-08-06
+31,Globex,Retail,Closed Lost,South America,Eva,Analytics Suite,193306,90,2024-06-07,2024-08-05
+32,Soylent,Healthcare,Closed Won,Asia,Charlie,Security Package,130265,59,2024-04-29,2024-06-18
+33,Umbrella,Healthcare,Qualification,Europe,Eva,CRM System,32965,53,2024-03-20,2024-05-28
+34,Acme Corp,Healthcare,Negotiation,North America,Charlie,CRM System,188586,41,2024-07-13,2024-07-29
+35,Umbrella,Retail,Negotiation,Middle East,Charlie,Cloud Platform,39290,75,2024-03-05,2024-04-25
+36,Hooli,Healthcare,Negotiation,Middle East,Charlie,CRM System,93651,34,2024-06-05,2024-06-21
+37,Stark Industries,Manufacturing,Qualification,Europe,Charlie,CRM System,85003,44,2024-08-16,2024-12-05
+38,Wayne Enterprises,Finance,Proposal,South America,Eva,Cloud Platform,93177,52,2024-04-13,2024-04-26
+39,Wayne Enterprises,Retail,Closed Lost,South America,David,Cloud Platform,181162,85,2024-08-26,2024-11-27
+40,Acme Corp,Technology,Prospecting,North America,Charlie,CRM System,72272,50,2024-07-05,2024-10-09
+41,Initech,Manufacturing,Closed Won,Asia,Bob,CRM System,155990,10,2024-08-14,2024-08-25
+42,Umbrella,Retail,Proposal,South America,Charlie,AI Module,97876,77,2024-02-15,2024-04-17
+43,Acme Corp,Finance,Prospecting,Middle East,Bob,Analytics Suite,101215,76,2024-06-12,2024-09-16
+44,Globex,Retail,Qualification,Middle East,Alice,AI Module,62809,76,2024-02-23,2024-06-10
+45,Umbrella,Manufacturing,Closed Lost,Middle East,Charlie,AI Module,55400,55,2024-07-24,2024-10-03
+46,Hooli,Manufacturing,Closed Won,South America,Bob,Security Package,132153,91,2024-07-26,2024-09-28
+47,Umbrella,Technology,Closed Won,Europe,Charlie,CRM System,42387,22,2024-08-30,2024-11-09
+48,Umbrella,Healthcare,Qualification,South America,Eva,AI Module,158192,97,2024-08-24,2024-10-07
+49,Stark Industries,Finance,Closed Lost,South America,David,CRM System,95434,16,2024-08-07,2024-11-07
+50,Wayne Enterprises,Manufacturing,Proposal,North America,Alice,AI Module,45688,96,2024-09-23,2024-12-09
+51,Acme Corp,Manufacturing,Prospecting,Asia,David,Security Package,186014,70,2024-07-14,2024-07-26
+52,Globex,Finance,Negotiation,South America,David,CRM System,126028,61,2024-06-17,2024-10-12
+53,Globex,Manufacturing,Closed Lost,South America,Eva,Analytics Suite,131249,66,2024-10-18,2025-02-12
+54,Globex,Technology,Negotiation,Asia,Frank,Security Package,27314,88,2024-06-05,2024-07-18
+55,Wayne Enterprises,Technology,Closed Lost,Middle East,Bob,Cloud Platform,100119,55,2024-07-04,2024-07-14
+56,Acme Corp,Healthcare,Prospecting,Asia,Alice,Analytics Suite,40003,74,2024-03-22,2024-06-21
+57,Wayne Enterprises,Retail,Negotiation,South America,David,AI Module,12505,30,2024-03-10,2024-06-28
+58,Initech,Finance,Proposal,Europe,Charlie,CRM System,77551,46,2024-08-13,2024-09-15
+59,Soylent,Technology,Closed Lost,North America,Frank,CRM System,111701,28,2024-08-23,2024-11-06
+60,Wayne Enterprises,Technology,Qualification,North America,Bob,Analytics Suite,90859,60,2024-09-18,2024-12-02
+61,Umbrella,Technology,Closed Lost,Asia,Alice,Cloud Platform,36612,45,2024-10-07,2024-10-18
+62,Stark Industries,Technology,Negotiation,Asia,David,CRM System,62201,35,2024-08-27,2024-09-26
+63,Umbrella,Healthcare,Qualification,Middle East,Frank,Cloud Platform,21025,69,2024-01-14,2024-04-09
+64,Initech,Manufacturing,Closed Lost,North America,David,Cloud Platform,42171,25,2024-05-31,2024-08-23
+65,Wayne Enterprises,Technology,Negotiation,Asia,Bob,Security Package,64292,98,2024-07-22,2024-11-04
+66,Soylent,Healthcare,Negotiation,South America,Charlie,Analytics Suite,36455,32,2024-06-22,2024-08-09
+67,Initech,Retail,Closed Won,South America,David,Analytics Suite,5919,76,2024-08-23,2024-11-10
+68,Acme Corp,Manufacturing,Negotiation,Europe,Eva,Analytics Suite,123026,33,2024-07-13,2024-09-17
+69,Acme Corp,Retail,Closed Won,Europe,Eva,AI Module,162581,43,2024-01-08,2024-02-08
+70,Soylent,Manufacturing,Prospecting,Asia,Frank,Analytics Suite,139989,82,2024-05-23,2024-08-31
+71,Hooli,Manufacturing,Negotiation,Middle East,Bob,CRM System,18837,57,2024-05-03,2024-07-13
+72,Hooli,Manufacturing,Closed Lost,Middle East,Alice,CRM System,109403,69,2024-02-12,2024-06-02
+73,Stark Industries,Healthcare,Negotiation,Middle East,Bob,Analytics Suite,152265,66,2024-08-18,2024-11-08
+74,Acme Corp,Finance,Negotiation,Middle East,Frank,CRM System,32651,89,2024-08-29,2024-09-16
+75,Soylent,Retail,Closed Won,North America,Bob,Security Package,186388,29,2024-06-06,2024-07-14
+76,Globex,Manufacturing,Negotiation,Middle East,Alice,AI Module,28560,88,2024-04-20,2024-08-09
+77,Wayne Enterprises,Manufacturing,Proposal,Europe,Alice,AI Module,154491,48,2024-02-01,2024-02-25
+78,Soylent,Technology,Prospecting,Europe,Alice,Cloud Platform,89861,47,2024-06-09,2024-09-08
+79,Globex,Technology,Qualification,North America,Charlie,Cloud Platform,153895,45,2024-04-11,2024-06-10
+80,Initech,Healthcare,Closed Lost,Asia,David,AI Module,112383,21,2024-01-17,2024-02-28
+81,Initech,Manufacturing,Qualification,South America,Bob,Analytics Suite,65715,38,2024-06-08,2024-08-12
+82,Wayne Enterprises,Retail,Closed Won,Europe,Eva,Analytics Suite,52071,52,2024-05-06,2024-08-12
+83,Acme Corp,Retail,Closed Lost,Europe,Alice,Security Package,95773,55,2024-04-25,2024-05-11
+84,Globex,Technology,Prospecting,North America,Alice,AI Module,21653,91,2024-01-24,2024-02-18
+85,Globex,Technology,Prospecting,Europe,Alice,CRM System,121013,51,2024-08-05,2024-11-28
+86,Wayne Enterprises,Finance,Qualification,South America,David,CRM System,71076,88,2024-10-10,2025-01-28
+87,Globex,Manufacturing,Closed Won,North America,Eva,Cloud Platform,100570,50,2024-08-09,2024-09-03
+88,Globex,Manufacturing,Proposal,Middle East,Frank,AI Module,21285,45,2024-10-06,2025-01-16
+89,Umbrella,Technology,Prospecting,Middle East,Frank,Cloud Platform,96453,72,2024-08-17,2024-11-24
+90,Stark Industries,Technology,Closed Lost,Middle East,Bob,Security Package,58658,47,2024-10-23,2024-11-16
+91,Wayne Enterprises,Technology,Qualification,South America,David,Cloud Platform,103610,65,2024-09-25,2024-10-27
+92,Umbrella,Finance,Proposal,Asia,Charlie,Security Package,96663,44,2024-06-12,2024-08-27
+93,Stark Industries,Finance,Proposal,Europe,Frank,AI Module,29494,41,2024-07-11,2024-10-19
+94,Initech,Finance,Proposal,South America,Frank,Security Package,151241,93,2024-01-18,2024-02-14
+95,Umbrella,Manufacturing,Closed Lost,Asia,Eva,Cloud Platform,30709,29,2024-02-25,2024-06-22
+96,Acme Corp,Finance,Negotiation,North America,Eva,AI Module,159393,67,2024-10-11,2024-12-07
+97,Stark Industries,Manufacturing,Proposal,South America,Charlie,Cloud Platform,125338,33,2024-06-25,2024-07-23
+98,Umbrella,Technology,Proposal,North America,Bob,CRM System,151421,86,2024-05-10,2024-08-16
+99,Hooli,Manufacturing,Closed Lost,Asia,Eva,Analytics Suite,190238,90,2024-10-18,2024-11-05
+100,Soylent,Retail,Qualification,South America,Alice,Security Package,132515,65,2024-09-23,2024-10-25
+101,Globex,Healthcare,Closed Won,Europe,Bob,Security Package,143699,40,2024-02-11,2024-05-20
+102,Initech,Technology,Negotiation,Asia,Frank,Analytics Suite,19336,13,2024-03-13,2024-06-04
+103,Soylent,Retail,Qualification,Europe,Frank,Security Package,79262,96,2024-04-18,2024-05-13
+104,Umbrella,Healthcare,Closed Lost,North America,David,Security Package,99021,11,2024-01-27,2024-05-11
+105,Soylent,Retail,Qualification,Europe,Charlie,CRM System,190981,24,2024-07-29,2024-11-24
+106,Stark Industries,Healthcare,Proposal,South America,Alice,AI Module,84767,37,2024-05-28,2024-08-06
+107,Soylent,Healthcare,Negotiation,South America,Alice,Security Package,102094,10,2024-01-14,2024-03-09
+108,Wayne Enterprises,Finance,Closed Won,Middle East,Alice,CRM System,33502,19,2024-01-15,2024-02-20
+109,Wayne Enterprises,Retail,Closed Won,Europe,David,Security Package,41673,45,2024-05-19,2024-06-13
+110,Soylent,Retail,Qualification,Middle East,Alice,AI Module,195391,88,2024-07-05,2024-09-21
+111,Umbrella,Technology,Negotiation,Asia,Eva,CRM System,68671,42,2024-09-21,2025-01-17
+112,Soylent,Manufacturing,Qualification,North America,Alice,Security Package,28450,68,2024-02-10,2024-03-01
+113,Soylent,Retail,Closed Lost,Asia,Bob,CRM System,157223,36,2024-02-18,2024-05-22
+114,Soylent,Retail,Qualification,North America,Eva,Analytics Suite,115873,22,2024-06-11,2024-08-07
+115,Acme Corp,Technology,Closed Won,Europe,Alice,Security Package,97136,62,2024-06-14,2024-08-09
+116,Stark Industries,Technology,Closed Won,South America,Frank,Cloud Platform,143763,67,2024-04-19,2024-06-15
+117,Wayne Enterprises,Finance,Qualification,Europe,David,AI Module,27907,55,2024-10-23,2025-01-10
+118,Soylent,Manufacturing,Closed Won,North America,Alice,Security Package,186433,88,2024-05-01,2024-06-26
+119,Umbrella,Manufacturing,Closed Lost,Middle East,David,Security Package,198079,29,2024-01-11,2024-02-16
+120,Initech,Finance,Closed Won,North America,Eva,Cloud Platform,24217,91,2024-02-17,2024-05-30
+121,Wayne Enterprises,Technology,Proposal,Middle East,Eva,CRM System,97086,80,2024-01-24,2024-03-19
+122,Wayne Enterprises,Technology,Proposal,Asia,Eva,AI Module,147592,43,2024-02-26,2024-03-14
+123,Hooli,Technology,Prospecting,South America,Eva,Cloud Platform,27283,87,2024-06-15,2024-06-28
+124,Hooli,Retail,Closed Lost,Asia,David,AI Module,111020,96,2024-05-12,2024-06-16
+125,Hooli,Manufacturing,Prospecting,Europe,Bob,Security Package,15979,53,2024-06-24,2024-09-07
+126,Acme Corp,Manufacturing,Qualification,Middle East,David,AI Module,96341,10,2024-10-09,2024-11-16
+127,Globex,Healthcare,Qualification,Middle East,David,CRM System,65156,67,2024-07-18,2024-10-15
+128,Hooli,Healthcare,Qualification,Asia,Alice,Analytics Suite,140432,32,2024-09-01,2024-11-21
+129,Globex,Retail,Qualification,South America,Alice,AI Module,120007,24,2024-08-31,2024-10-28
+130,Umbrella,Retail,Closed Won,South America,David,Analytics Suite,60270,79,2024-03-31,2024-07-21
+131,Acme Corp,Manufacturing,Prospecting,Asia,Charlie,CRM System,181857,20,2024-01-26,2024-04-16
+132,Wayne Enterprises,Healthcare,Qualification,South America,Bob,Cloud Platform,101886,77,2024-10-24,2025-02-08
+133,Hooli,Finance,Proposal,Europe,Eva,AI Module,193500,14,2024-01-21,2024-02-06
+134,Stark Industries,Technology,Closed Won,North America,Eva,AI Module,197772,62,2024-06-08,2024-09-08
+135,Acme Corp,Manufacturing,Prospecting,Middle East,Eva,AI Module,193859,70,2024-09-04,2024-10-18
+136,Globex,Finance,Closed Lost,Middle East,Alice,AI Module,171951,62,2024-07-01,2024-08-17
+137,Initech,Retail,Closed Won,Middle East,Alice,Analytics Suite,167512,73,2024-05-10,2024-08-29
+138,Soylent,Technology,Negotiation,North America,Bob,CRM System,191834,15,2024-05-12,2024-08-29
+139,Initech,Retail,Qualification,Europe,Frank,Analytics Suite,53878,21,2024-01-29,2024-05-22
+140,Acme Corp,Healthcare,Proposal,Asia,Bob,Security Package,77919,70,2024-09-26,2024-10-23
+141,Hooli,Finance,Closed Lost,South America,David,Security Package,163446,23,2024-01-26,2024-05-22
+142,Umbrella,Technology,Prospecting,South America,Alice,Cloud Platform,68843,22,2024-04-23,2024-07-05
+143,Initech,Technology,Closed Won,North America,Eva,Cloud Platform,31747,17,2024-03-23,2024-04-24
+144,Initech,Retail,Prospecting,Middle East,David,AI Module,96422,66,2024-01-23,2024-03-09
+145,Hooli,Manufacturing,Negotiation,South America,Charlie,Security Package,104331,15,2024-04-19,2024-05-17
+146,Acme Corp,Finance,Proposal,Asia,Charlie,Analytics Suite,39826,67,2024-02-09,2024-05-02
+147,Wayne Enterprises,Technology,Closed Lost,South America,Frank,CRM System,109736,20,2024-05-25,2024-06-09
+148,Hooli,Technology,Closed Won,Middle East,Bob,Security Package,30749,40,2024-03-07,2024-03-24
+149,Globex,Healthcare,Closed Lost,Asia,Alice,Security Package,189233,13,2024-06-04,2024-07-06
+150,Wayne Enterprises,Finance,Negotiation,Middle East,Alice,Analytics Suite,163586,71,2024-03-19,2024-04-15
+151,Acme Corp,Finance,Proposal,Middle East,Charlie,Security Package,30953,11,2024-06-09,2024-07-29
+152,Initech,Technology,Qualification,North America,Bob,Analytics Suite,74857,53,2024-04-29,2024-07-29
+153,Initech,Finance,Prospecting,Middle East,Bob,Analytics Suite,98363,26,2024-06-01,2024-09-11
+154,Umbrella,Finance,Negotiation,Asia,Alice,Analytics Suite,24660,49,2024-03-19,2024-05-30
+155,Initech,Technology,Closed Lost,North America,Frank,Analytics Suite,165959,27,2024-01-15,2024-04-22
+156,Wayne Enterprises,Technology,Closed Lost,North America,Alice,Security Package,112060,62,2024-08-24,2024-10-05
+157,Wayne Enterprises,Retail,Prospecting,Asia,Charlie,Security Package,196938,62,2024-08-05,2024-10-02
+158,Umbrella,Retail,Prospecting,North America,Frank,CRM System,15073,17,2024-03-28,2024-07-15
+159,Initech,Retail,Negotiation,Asia,Eva,Cloud Platform,138610,28,2024-09-22,2024-10-30
+160,Globex,Retail,Negotiation,South America,Bob,CRM System,64870,31,2024-04-14,2024-05-19
+161,Initech,Finance,Closed Won,North America,Alice,Analytics Suite,154852,32,2024-03-03,2024-04-11
+162,Stark Industries,Healthcare,Proposal,South America,Frank,AI Module,167985,40,2024-01-11,2024-02-18
+163,Umbrella,Technology,Closed Lost,North America,Frank,CRM System,61081,78,2024-03-20,2024-06-25
+164,Stark Industries,Technology,Qualification,Middle East,Bob,AI Module,14102,13,2024-09-17,2024-11-28
+165,Umbrella,Manufacturing,Proposal,Asia,Frank,AI Module,19139,59,2024-09-12,2024-12-04
+166,Umbrella,Healthcare,Closed Lost,Middle East,Eva,Security Package,152260,19,2024-06-10,2024-10-07
+167,Initech,Healthcare,Closed Lost,South America,Charlie,Analytics Suite,81385,19,2024-07-21,2024-10-12
+168,Stark Industries,Technology,Qualification,Asia,Eva,Cloud Platform,25246,44,2024-02-23,2024-05-17
+169,Umbrella,Healthcare,Qualification,Asia,Charlie,Cloud Platform,57468,86,2024-06-11,2024-07-12
+170,Soylent,Manufacturing,Closed Won,South America,Bob,Cloud Platform,28896,58,2024-06-24,2024-07-26
+171,Globex,Finance,Proposal,Asia,David,Cloud Platform,46866,59,2024-02-04,2024-05-15
+172,Initech,Retail,Negotiation,Asia,Bob,Cloud Platform,173579,18,2024-10-01,2024-10-15
+173,Umbrella,Manufacturing,Prospecting,North America,David,AI Module,178041,34,2024-01-06,2024-03-10
+174,Stark Industries,Retail,Closed Lost,Europe,Frank,AI Module,126888,46,2024-10-10,2025-01-31
+175,Globex,Technology,Closed Won,Middle East,Bob,AI Module,152341,19,2024-05-27,2024-06-18
+176,Initech,Finance,Closed Won,Europe,Frank,Analytics Suite,34873,16,2024-04-27,2024-07-11
+177,Globex,Manufacturing,Closed Won,Asia,Eva,CRM System,178440,18,2024-03-21,2024-04-12
+178,Soylent,Healthcare,Negotiation,Europe,Charlie,Security Package,10870,91,2024-04-09,2024-05-09
+179,Initech,Finance,Closed Lost,North America,Bob,AI Module,128220,83,2024-10-24,2024-11-16
+180,Stark Industries,Manufacturing,Prospecting,South America,Frank,Analytics Suite,17843,67,2024-05-19,2024-06-24
+181,Umbrella,Finance,Qualification,South America,Alice,Analytics Suite,34915,11,2024-08-27,2024-11-10
+182,Acme Corp,Technology,Closed Lost,Europe,Charlie,Security Package,163679,46,2024-10-20,2025-02-04
+183,Umbrella,Healthcare,Negotiation,North America,Eva,Cloud Platform,167906,10,2024-02-08,2024-02-23
+184,Initech,Retail,Proposal,South America,Bob,Analytics Suite,84305,68,2024-09-27,2024-11-22
+185,Umbrella,Retail,Proposal,Europe,Frank,CRM System,17129,51,2024-07-22,2024-10-14
+186,Acme Corp,Retail,Negotiation,Europe,Charlie,CRM System,162018,88,2024-09-23,2024-11-07
+187,Acme Corp,Manufacturing,Closed Won,Middle East,Alice,CRM System,43313,64,2024-08-03,2024-11-25
+188,Stark Industries,Finance,Negotiation,North America,Charlie,Analytics Suite,36727,36,2024-05-15,2024-06-19
+189,Acme Corp,Healthcare,Closed Lost,Middle East,Bob,Analytics Suite,196647,44,2024-08-03,2024-09-29
+190,Stark Industries,Healthcare,Prospecting,Europe,Alice,Analytics Suite,170128,79,2024-03-29,2024-04-08
+191,Umbrella,Manufacturing,Closed Lost,Middle East,Bob,Analytics Suite,25913,17,2024-05-25,2024-06-25
+192,Stark Industries,Healthcare,Qualification,Middle East,David,CRM System,18649,92,2024-09-29,2024-10-16
+193,Initech,Healthcare,Qualification,Europe,Charlie,Security Package,34534,25,2024-04-30,2024-05-12
+194,Umbrella,Finance,Qualification,South America,Frank,Security Package,192777,39,2024-10-11,2024-10-25
+195,Acme Corp,Finance,Closed Lost,Asia,Alice,Analytics Suite,132162,90,2024-01-22,2024-03-28
+196,Soylent,Finance,Qualification,South America,Bob,CRM System,134309,71,2024-07-29,2024-09-11
+197,Acme Corp,Manufacturing,Closed Won,North America,David,Security Package,132221,60,2024-01-12,2024-03-16
+198,Hooli,Manufacturing,Closed Lost,South America,Bob,CRM System,120920,13,2024-08-04,2024-09-05
+199,Stark Industries,Manufacturing,Closed Lost,Europe,Bob,Analytics Suite,59920,59,2024-03-30,2024-06-27
+200,Acme Corp,Healthcare,Proposal,Middle East,Charlie,Analytics Suite,37375,79,2024-08-18,2024-09-18
+201,Hooli,Retail,Proposal,North America,Charlie,AI Module,154796,44,2024-01-16,2024-05-14
+202,Initech,Healthcare,Negotiation,North America,David,Analytics Suite,69349,98,2024-10-20,2024-11-01
+203,Umbrella,Finance,Qualification,North America,Frank,CRM System,88643,63,2024-04-07,2024-07-05
+204,Stark Industries,Retail,Proposal,Middle East,Charlie,Analytics Suite,144499,52,2024-01-22,2024-03-24
+205,Initech,Technology,Prospecting,South America,Alice,Cloud Platform,25588,44,2024-03-18,2024-04-20
+206,Umbrella,Retail,Negotiation,Middle East,Frank,AI Module,96407,84,2024-04-04,2024-07-17
+207,Hooli,Finance,Closed Won,Asia,David,Analytics Suite,64405,76,2024-03-25,2024-05-19
+208,Acme Corp,Finance,Proposal,North America,Charlie,Analytics Suite,172577,75,2024-06-04,2024-08-14
+209,Acme Corp,Finance,Qualification,Europe,Frank,AI Module,60038,74,2024-08-14,2024-09-11
+210,Acme Corp,Finance,Closed Won,Middle East,Eva,Cloud Platform,18541,53,2024-04-03,2024-05-10
+211,Umbrella,Technology,Prospecting,North America,Alice,AI Module,96856,21,2024-01-03,2024-04-04
+212,Wayne Enterprises,Retail,Prospecting,Middle East,Bob,CRM System,185107,81,2024-10-17,2024-11-05
+213,Acme Corp,Technology,Prospecting,Middle East,Alice,CRM System,38070,45,2024-08-31,2024-11-18
+214,Initech,Healthcare,Closed Won,South America,Alice,Cloud Platform,160778,27,2024-03-14,2024-06-30
+215,Initech,Retail,Closed Lost,Middle East,Frank,Analytics Suite,42466,82,2024-03-27,2024-04-29
+216,Acme Corp,Healthcare,Proposal,Europe,Alice,AI Module,182409,47,2024-07-08,2024-09-27
+217,Soylent,Healthcare,Proposal,Asia,Eva,Security Package,172368,42,2024-04-07,2024-05-17
+218,Umbrella,Healthcare,Closed Lost,Asia,Alice,Cloud Platform,66779,75,2024-06-04,2024-09-25
+219,Soylent,Finance,Closed Lost,Middle East,Eva,AI Module,169251,14,2024-04-13,2024-08-08
+220,Hooli,Retail,Qualification,Middle East,Eva,AI Module,70273,91,2024-03-31,2024-04-19
+221,Stark Industries,Manufacturing,Closed Lost,Middle East,Charlie,Cloud Platform,81505,69,2024-04-11,2024-07-12
+222,Acme Corp,Retail,Closed Won,Asia,Eva,Security Package,128244,91,2024-04-26,2024-05-26
+223,Soylent,Finance,Proposal,Middle East,Eva,CRM System,15148,46,2024-06-08,2024-09-06
+224,Umbrella,Retail,Closed Lost,South America,Frank,CRM System,151328,74,2024-10-21,2025-02-17
+225,Hooli,Finance,Negotiation,Middle East,Frank,Analytics Suite,113172,93,2024-02-29,2024-06-25
+226,Umbrella,Retail,Qualification,Europe,David,Analytics Suite,35516,35,2024-06-05,2024-09-09
+227,Soylent,Retail,Proposal,Europe,Eva,CRM System,176255,39,2024-05-15,2024-06-11
+228,Stark Industries,Healthcare,Negotiation,Asia,Frank,Security Package,192114,17,2024-09-28,2025-01-08
+229,Hooli,Technology,Qualification,Europe,Alice,Cloud Platform,100800,16,2024-02-04,2024-05-16
+230,Globex,Retail,Prospecting,Asia,Bob,AI Module,37498,41,2024-05-21,2024-07-14
+231,Hooli,Manufacturing,Prospecting,Europe,Eva,Analytics Suite,160585,69,2024-03-29,2024-04-25
+232,Umbrella,Technology,Negotiation,Asia,Eva,CRM System,29645,77,2024-06-30,2024-08-20
+233,Acme Corp,Manufacturing,Prospecting,North America,Charlie,AI Module,22580,14,2024-09-04,2024-09-23
+234,Acme Corp,Retail,Negotiation,Europe,Frank,Cloud Platform,116957,11,2024-06-20,2024-07-23
+235,Acme Corp,Finance,Qualification,Middle East,Charlie,Cloud Platform,97922,86,2024-02-27,2024-05-24
+236,Hooli,Retail,Proposal,Asia,Alice,Analytics Suite,132896,18,2024-08-14,2024-11-03
+237,Hooli,Healthcare,Qualification,Asia,David,Analytics Suite,198672,73,2024-03-29,2024-07-07
+238,Stark Industries,Finance,Negotiation,South America,Frank,Security Package,30068,43,2024-05-29,2024-07-04
+239,Globex,Manufacturing,Closed Won,North America,Eva,Cloud Platform,109570,43,2024-08-31,2024-09-29
+240,Acme Corp,Retail,Closed Won,North America,Bob,CRM System,188664,39,2024-02-09,2024-04-26
+241,Soylent,Retail,Closed Lost,Middle East,Eva,Cloud Platform,190722,39,2024-06-20,2024-08-25
+242,Globex,Finance,Closed Lost,Asia,Frank,Cloud Platform,54566,96,2024-05-04,2024-05-22
+243,Stark Industries,Retail,Closed Lost,North America,David,Security Package,62632,73,2024-05-24,2024-07-19
+244,Hooli,Technology,Negotiation,North America,Frank,Cloud Platform,164683,35,2024-01-06,2024-03-28
+245,Hooli,Manufacturing,Prospecting,South America,David,CRM System,166977,66,2024-01-21,2024-02-02
+246,Umbrella,Retail,Negotiation,Middle East,Frank,Security Package,123645,77,2024-10-10,2024-10-25
+247,Globex,Retail,Closed Lost,Middle East,Bob,Cloud Platform,94940,50,2024-08-01,2024-08-25
+248,Acme Corp,Finance,Proposal,North America,Alice,Analytics Suite,10457,23,2024-07-17,2024-08-29
+249,Acme Corp,Healthcare,Qualification,Europe,Eva,AI Module,36870,54,2024-10-06,2024-12-23
+250,Soylent,Manufacturing,Negotiation,South America,Eva,Cloud Platform,155673,34,2024-08-28,2024-12-13
+251,Umbrella,Technology,Closed Lost,Europe,Charlie,CRM System,78035,58,2024-08-19,2024-12-11
+252,Umbrella,Technology,Proposal,South America,Alice,CRM System,76545,35,2024-07-02,2024-09-15
+253,Globex,Finance,Closed Won,Europe,Bob,Analytics Suite,114219,70,2024-02-01,2024-04-02
+254,Stark Industries,Technology,Negotiation,Middle East,Eva,Cloud Platform,167389,47,2024-02-22,2024-04-15
+255,Hooli,Healthcare,Prospecting,Asia,Frank,Cloud Platform,115891,41,2024-05-05,2024-05-18
+256,Wayne Enterprises,Retail,Closed Lost,Middle East,Frank,Cloud Platform,159978,25,2024-06-19,2024-10-12
+257,Hooli,Manufacturing,Negotiation,North America,Frank,CRM System,161019,96,2024-09-01,2024-11-02
+258,Wayne Enterprises,Retail,Closed Lost,Europe,David,Security Package,80873,21,2024-08-15,2024-11-21
+259,Acme Corp,Finance,Closed Won,North America,Alice,Security Package,145233,27,2024-08-07,2024-08-21
+260,Acme Corp,Retail,Closed Lost,Middle East,David,Analytics Suite,15395,38,2024-08-15,2024-09-20
+261,Wayne Enterprises,Healthcare,Closed Lost,Europe,Frank,CRM System,86879,53,2024-09-14,2024-10-24
+262,Globex,Technology,Proposal,South America,David,AI Module,9031,30,2024-05-01,2024-06-16
+263,Initech,Manufacturing,Negotiation,Asia,Eva,Analytics Suite,108401,46,2024-10-21,2024-12-16
+264,Acme Corp,Healthcare,Negotiation,Middle East,Bob,Security Package,10683,18,2024-05-30,2024-08-21
+265,Stark Industries,Finance,Closed Lost,Middle East,Bob,AI Module,37315,57,2024-06-08,2024-06-25
+266,Wayne Enterprises,Manufacturing,Prospecting,Asia,Bob,Analytics Suite,158252,15,2024-03-30,2024-05-07
+267,Umbrella,Retail,Negotiation,Middle East,Eva,Analytics Suite,185912,40,2024-09-15,2025-01-11
+268,Stark Industries,Finance,Qualification,Europe,Frank,CRM System,13417,70,2024-05-13,2024-06-06
+269,Wayne Enterprises,Retail,Negotiation,Europe,Charlie,Cloud Platform,148597,61,2024-08-11,2024-10-17
+270,Hooli,Healthcare,Proposal,Middle East,Bob,Security Package,70096,57,2024-06-06,2024-07-17
+271,Globex,Healthcare,Qualification,Europe,David,Security Package,150131,61,2024-07-24,2024-09-12
+272,Globex,Finance,Prospecting,Middle East,David,Cloud Platform,96630,12,2024-06-02,2024-08-16
+273,Wayne Enterprises,Technology,Proposal,Middle East,Frank,AI Module,42281,94,2024-02-14,2024-05-19
+274,Stark Industries,Finance,Prospecting,South America,Charlie,AI Module,119351,98,2024-08-12,2024-09-12
+275,Soylent,Technology,Negotiation,Asia,Alice,AI Module,179222,23,2024-04-15,2024-08-05
+276,Acme Corp,Finance,Negotiation,Europe,Eva,Cloud Platform,95078,72,2024-10-18,2025-01-31
+277,Hooli,Finance,Negotiation,Asia,Eva,CRM System,80118,93,2024-03-28,2024-06-28
+278,Acme Corp,Manufacturing,Closed Won,South America,David,CRM System,92255,43,2024-01-03,2024-02-13
+279,Umbrella,Technology,Closed Won,North America,Bob,Analytics Suite,139975,48,2024-09-23,2025-01-08
+280,Initech,Technology,Closed Won,Middle East,Bob,Security Package,182835,90,2024-06-25,2024-07-11
+281,Wayne Enterprises,Healthcare,Qualification,Europe,Charlie,Cloud Platform,188829,29,2024-01-28,2024-03-06
+282,Umbrella,Retail,Closed Won,North America,Alice,CRM System,133386,46,2024-01-29,2024-05-06
+283,Initech,Healthcare,Closed Lost,North America,Bob,Security Package,38434,25,2024-04-30,2024-08-02
+284,Soylent,Technology,Closed Lost,Europe,Bob,AI Module,12396,47,2024-04-11,2024-05-19
+285,Stark Industries,Manufacturing,Negotiation,North America,David,Cloud Platform,73078,20,2024-08-13,2024-09-09
+286,Umbrella,Technology,Negotiation,Middle East,Frank,Security Package,48393,61,2024-04-29,2024-06-17
+287,Stark Industries,Retail,Prospecting,Middle East,Bob,CRM System,162624,29,2024-05-17,2024-06-12
+288,Stark Industries,Retail,Proposal,Middle East,Eva,AI Module,136907,63,2024-10-03,2024-12-10
+289,Hooli,Finance,Proposal,South America,Bob,Analytics Suite,149209,51,2024-01-06,2024-01-17
+290,Hooli,Manufacturing,Qualification,North America,Bob,Analytics Suite,77961,19,2024-08-07,2024-11-30
+291,Wayne Enterprises,Healthcare,Proposal,Middle East,Alice,Analytics Suite,179366,87,2024-07-21,2024-09-22
+292,Umbrella,Manufacturing,Qualification,South America,Eva,CRM System,45482,83,2024-08-17,2024-11-04
+293,Acme Corp,Finance,Prospecting,Middle East,Charlie,Cloud Platform,87913,39,2024-10-06,2024-12-10
+294,Umbrella,Technology,Negotiation,Middle East,Eva,Security Package,143159,75,2024-02-19,2024-04-25
+295,Acme Corp,Retail,Negotiation,Europe,Charlie,CRM System,119608,65,2024-03-03,2024-06-20
+296,Soylent,Technology,Qualification,Middle East,Alice,Security Package,23442,93,2024-01-12,2024-02-27
+297,Initech,Technology,Closed Won,Middle East,Alice,CRM System,153729,44,2024-09-05,2024-10-16
+298,Stark Industries,Finance,Prospecting,Middle East,Frank,AI Module,72882,68,2024-09-04,2024-12-27
+299,Umbrella,Healthcare,Closed Lost,Middle East,Frank,CRM System,78926,40,2024-01-14,2024-03-29
+300,Hooli,Technology,Negotiation,Middle East,David,Analytics Suite,126961,63,2024-08-26,2024-12-18
+301,Hooli,Retail,Negotiation,Asia,Alice,Cloud Platform,121390,46,2024-08-11,2024-11-24
+302,Soylent,Retail,Prospecting,Asia,Bob,Security Package,122253,36,2024-03-29,2024-07-13
+303,Wayne Enterprises,Healthcare,Closed Lost,South America,Eva,AI Module,190660,50,2024-10-20,2024-11-17
+304,Acme Corp,Healthcare,Closed Lost,South America,Charlie,Analytics Suite,7718,10,2024-04-28,2024-08-20
+305,Initech,Finance,Qualification,South America,Eva,AI Module,157123,27,2024-08-01,2024-09-10
+306,Umbrella,Manufacturing,Closed Won,Asia,Eva,Security Package,95120,68,2024-09-24,2024-10-18
+307,Umbrella,Retail,Qualification,South America,Eva,CRM System,141383,97,2024-02-12,2024-05-17
+308,Globex,Technology,Prospecting,Europe,Eva,Cloud Platform,13567,42,2024-09-09,2024-12-23
+309,Wayne Enterprises,Finance,Proposal,North America,Eva,Analytics Suite,39390,27,2024-06-25,2024-08-06
+310,Hooli,Healthcare,Qualification,Europe,Frank,Cloud Platform,198126,81,2024-01-14,2024-02-04
+311,Umbrella,Technology,Proposal,North America,Alice,Security Package,64758,17,2024-06-09,2024-09-29
+312,Stark Industries,Manufacturing,Prospecting,North America,Frank,AI Module,56700,63,2024-07-18,2024-11-13
+313,Soylent,Healthcare,Closed Lost,Middle East,Eva,Cloud Platform,25318,26,2024-07-22,2024-10-18
+314,Hooli,Manufacturing,Proposal,South America,Eva,AI Module,133605,40,2024-08-19,2024-09-13
+315,Hooli,Manufacturing,Negotiation,North America,Charlie,Cloud Platform,154514,40,2024-06-23,2024-07-10
+316,Umbrella,Retail,Proposal,Middle East,Eva,Security Package,26148,44,2024-03-15,2024-06-04
+317,Umbrella,Retail,Closed Won,Europe,Eva,AI Module,15119,35,2024-03-28,2024-06-20
+318,Wayne Enterprises,Manufacturing,Closed Won,Middle East,Frank,Cloud Platform,84195,92,2024-02-08,2024-04-20
+319,Globex,Retail,Prospecting,North America,Eva,Cloud Platform,162168,83,2024-06-09,2024-09-11
+320,Globex,Healthcare,Closed Won,Middle East,Bob,Security Package,44283,92,2024-02-17,2024-03-31
+321,Globex,Manufacturing,Closed Lost,Middle East,Frank,AI Module,180431,30,2024-04-04,2024-05-02
+322,Wayne Enterprises,Manufacturing,Closed Lost,Europe,Bob,Cloud Platform,35156,67,2024-07-23,2024-09-13
+323,Umbrella,Finance,Proposal,Europe,Bob,Analytics Suite,58427,86,2024-05-19,2024-09-10
+324,Stark Industries,Finance,Negotiation,North America,Eva,Security Package,60539,25,2024-10-11,2024-11-17
+325,Initech,Finance,Prospecting,Middle East,Alice,Cloud Platform,123366,95,2024-10-06,2024-11-09
+326,Initech,Finance,Qualification,Asia,Bob,Security Package,117414,52,2024-01-14,2024-04-02
+327,Soylent,Technology,Negotiation,Middle East,David,CRM System,140294,48,2024-09-13,2024-11-29
+328,Umbrella,Finance,Qualification,North America,Bob,Cloud Platform,193463,31,2024-01-14,2024-02-22
+329,Wayne Enterprises,Healthcare,Prospecting,Asia,Charlie,Analytics Suite,108262,21,2024-05-24,2024-07-03
+330,Globex,Technology,Qualification,Middle East,Alice,CRM System,195419,79,2024-01-29,2024-05-13
+331,Initech,Healthcare,Negotiation,Europe,Frank,Security Package,22544,95,2024-01-22,2024-03-06
+332,Umbrella,Finance,Closed Won,North America,Charlie,AI Module,39445,96,2024-03-22,2024-04-27
+333,Hooli,Manufacturing,Prospecting,Middle East,Charlie,AI Module,150666,27,2024-08-17,2024-11-02
+334,Wayne Enterprises,Technology,Closed Won,Europe,Bob,Security Package,5810,82,2024-02-03,2024-03-07
+335,Wayne Enterprises,Manufacturing,Closed Won,North America,Charlie,AI Module,16315,27,2024-07-16,2024-10-06
+336,Hooli,Healthcare,Closed Won,Asia,Charlie,AI Module,129996,31,2024-03-14,2024-07-08
+337,Hooli,Healthcare,Negotiation,Asia,Alice,Analytics Suite,26286,61,2024-04-03,2024-05-07
+338,Globex,Technology,Closed Lost,North America,Bob,CRM System,197059,12,2024-03-28,2024-07-22
+339,Soylent,Healthcare,Proposal,Europe,Alice,Cloud Platform,46397,68,2024-10-17,2024-11-02
+340,Initech,Technology,Closed Won,Asia,Eva,CRM System,22774,68,2024-01-01,2024-03-25
+341,Initech,Healthcare,Proposal,North America,Bob,Security Package,88570,58,2024-10-02,2025-01-19
+342,Acme Corp,Manufacturing,Prospecting,Middle East,Charlie,Analytics Suite,46048,51,2024-02-10,2024-04-03
+343,Globex,Retail,Qualification,North America,Frank,Security Package,118260,39,2024-02-13,2024-06-05
+344,Hooli,Finance,Closed Won,North America,Bob,CRM System,196708,99,2024-07-25,2024-09-25
+345,Acme Corp,Finance,Closed Lost,North America,Frank,Analytics Suite,41565,93,2024-06-03,2024-09-11
+346,Wayne Enterprises,Retail,Proposal,Europe,Bob,Analytics Suite,117812,86,2024-04-24,2024-06-18
+347,Soylent,Retail,Prospecting,South America,Eva,CRM System,43542,59,2024-01-27,2024-05-16
+348,Acme Corp,Technology,Negotiation,Middle East,Alice,Cloud Platform,112881,57,2024-05-11,2024-08-08
+349,Umbrella,Healthcare,Closed Lost,Europe,Bob,CRM System,121817,48,2024-02-02,2024-03-01
+350,Initech,Manufacturing,Closed Lost,North America,Frank,Analytics Suite,35415,54,2024-07-18,2024-07-31
+351,Hooli,Finance,Prospecting,Middle East,Bob,Analytics Suite,115233,91,2024-02-05,2024-05-17
+352,Stark Industries,Retail,Negotiation,Europe,Frank,Cloud Platform,66604,39,2024-07-02,2024-09-13
+353,Hooli,Retail,Qualification,Asia,David,Cloud Platform,43284,78,2024-08-13,2024-10-20
+354,Stark Industries,Retail,Qualification,Middle East,Bob,Security Package,169390,32,2024-04-27,2024-07-09
+355,Acme Corp,Healthcare,Closed Lost,South America,Alice,Security Package,168003,88,2024-06-25,2024-08-13
+356,Stark Industries,Manufacturing,Proposal,South America,David,Analytics Suite,126309,46,2024-04-09,2024-07-22
+357,Acme Corp,Retail,Negotiation,Middle East,Frank,Security Package,82267,59,2024-07-11,2024-07-26
+358,Hooli,Manufacturing,Negotiation,Middle East,Charlie,Cloud Platform,62171,90,2024-04-12,2024-06-08
+359,Globex,Finance,Closed Lost,North America,Charlie,Security Package,125351,89,2024-02-10,2024-03-13
+360,Globex,Technology,Qualification,North America,Bob,Security Package,32881,41,2024-05-02,2024-08-27
+361,Acme Corp,Technology,Closed Lost,North America,Alice,Analytics Suite,22477,27,2024-07-18,2024-09-17
+362,Umbrella,Finance,Closed Lost,Middle East,Bob,CRM System,57706,74,2024-05-20,2024-07-18
+363,Acme Corp,Technology,Prospecting,South America,Charlie,CRM System,5430,25,2024-01-07,2024-03-30
+364,Umbrella,Retail,Prospecting,Asia,Bob,AI Module,80292,76,2024-08-13,2024-09-04
+365,Acme Corp,Healthcare,Proposal,South America,Bob,AI Module,26597,55,2024-05-16,2024-06-27
+366,Soylent,Technology,Qualification,North America,Charlie,Analytics Suite,85883,68,2024-02-06,2024-05-05
+367,Soylent,Finance,Qualification,Europe,Charlie,Analytics Suite,135103,44,2024-01-06,2024-02-17
+368,Acme Corp,Healthcare,Closed Won,South America,David,CRM System,11985,87,2024-10-07,2024-11-21
+369,Globex,Finance,Closed Lost,North America,David,Analytics Suite,36731,60,2024-09-08,2024-11-17
+370,Umbrella,Retail,Proposal,Middle East,Alice,Cloud Platform,89273,77,2024-10-14,2024-12-25
+371,Wayne Enterprises,Finance,Qualification,Asia,Frank,Analytics Suite,162179,64,2024-04-07,2024-07-18
+372,Soylent,Retail,Closed Won,Europe,Frank,Security Package,26523,69,2024-06-28,2024-10-06
+373,Umbrella,Technology,Negotiation,South America,Alice,Analytics Suite,41054,29,2024-08-13,2024-11-30
+374,Initech,Healthcare,Closed Lost,North America,Charlie,CRM System,195871,14,2024-06-03,2024-09-03
+375,Stark Industries,Manufacturing,Closed Won,South America,Alice,Cloud Platform,81318,85,2024-01-15,2024-03-09
+376,Hooli,Healthcare,Qualification,Asia,Alice,AI Module,141124,60,2024-01-13,2024-05-08
+377,Globex,Manufacturing,Prospecting,Europe,David,Cloud Platform,148117,47,2024-10-18,2024-12-18
+378,Globex,Technology,Proposal,South America,Charlie,Cloud Platform,84647,88,2024-10-07,2024-12-12
+379,Initech,Finance,Negotiation,Asia,David,Security Package,41092,57,2024-03-13,2024-06-23
+380,Globex,Retail,Closed Lost,Europe,Bob,Cloud Platform,155290,86,2024-04-29,2024-05-17
+381,Hooli,Retail,Prospecting,South America,Charlie,Analytics Suite,119561,52,2024-06-29,2024-08-27
+382,Soylent,Retail,Proposal,North America,Eva,CRM System,113559,59,2024-04-13,2024-06-10
+383,Hooli,Technology,Negotiation,Asia,Alice,Cloud Platform,35368,38,2024-08-26,2024-10-30
+384,Initech,Technology,Negotiation,North America,Alice,Cloud Platform,168918,94,2024-09-24,2024-10-26
+385,Hooli,Manufacturing,Closed Lost,Asia,Charlie,Analytics Suite,185041,16,2024-07-30,2024-10-10
+386,Hooli,Healthcare,Closed Lost,North America,Eva,Cloud Platform,185998,88,2024-07-06,2024-10-19
+387,Soylent,Healthcare,Qualification,North America,Frank,AI Module,119419,66,2024-03-29,2024-06-04
+388,Soylent,Finance,Closed Won,South America,Charlie,Cloud Platform,7243,66,2024-09-11,2024-12-15
+389,Hooli,Manufacturing,Closed Lost,South America,Alice,Cloud Platform,73678,55,2024-05-12,2024-06-25
+390,Hooli,Technology,Prospecting,North America,Frank,Cloud Platform,36951,12,2024-07-04,2024-09-07
+391,Initech,Technology,Closed Lost,Asia,Alice,AI Module,183005,62,2024-10-05,2024-11-25
+392,Wayne Enterprises,Retail,Closed Won,South America,Charlie,AI Module,168658,83,2024-03-27,2024-06-09
+393,Umbrella,Manufacturing,Qualification,South America,Frank,AI Module,59107,37,2024-07-01,2024-08-23
+394,Hooli,Manufacturing,Qualification,North America,Bob,AI Module,53026,44,2024-01-02,2024-01-23
+395,Wayne Enterprises,Technology,Prospecting,Asia,David,Cloud Platform,55714,15,2024-08-25,2024-09-12
+396,Wayne Enterprises,Manufacturing,Negotiation,North America,Charlie,Analytics Suite,94833,66,2024-05-09,2024-06-11
+397,Umbrella,Retail,Proposal,Middle East,Bob,CRM System,194341,34,2024-05-16,2024-07-21
+398,Stark Industries,Retail,Negotiation,North America,Eva,CRM System,78392,52,2024-10-06,2025-01-09
+399,Stark Industries,Technology,Closed Won,Asia,Alice,Cloud Platform,139461,55,2024-08-02,2024-10-07
+400,Globex,Technology,Closed Lost,South America,Alice,Security Package,25156,84,2024-08-24,2024-10-28
+401,Stark Industries,Manufacturing,Prospecting,South America,Charlie,CRM System,82711,22,2024-04-02,2024-07-14
+402,Wayne Enterprises,Manufacturing,Qualification,Europe,Eva,AI Module,9187,14,2024-09-15,2024-10-03
+403,Initech,Healthcare,Closed Lost,North America,Charlie,Security Package,168240,46,2024-01-12,2024-02-12
+404,Soylent,Manufacturing,Negotiation,South America,David,Analytics Suite,195624,48,2024-07-19,2024-10-13
+405,Umbrella,Manufacturing,Prospecting,Middle East,Charlie,Security Package,5113,84,2024-05-04,2024-08-31
+406,Umbrella,Finance,Proposal,South America,Alice,Analytics Suite,58646,52,2024-05-27,2024-07-19
+407,Globex,Technology,Closed Lost,Middle East,Alice,Security Package,57036,45,2024-04-26,2024-05-15
+408,Globex,Manufacturing,Qualification,South America,Frank,CRM System,96616,68,2024-05-27,2024-08-20
+409,Hooli,Finance,Negotiation,South America,Bob,AI Module,82673,86,2024-01-29,2024-03-12
+410,Stark Industries,Manufacturing,Qualification,Asia,David,Analytics Suite,178371,31,2024-10-18,2024-12-12
+411,Hooli,Technology,Closed Won,South America,Frank,Analytics Suite,10546,80,2024-06-27,2024-10-20
+412,Globex,Healthcare,Proposal,Middle East,Frank,Security Package,153276,22,2024-06-26,2024-08-26
+413,Globex,Retail,Closed Lost,Asia,Frank,AI Module,112698,52,2024-05-11,2024-08-17
+414,Initech,Technology,Proposal,South America,Bob,Cloud Platform,29696,76,2024-04-16,2024-07-06
+415,Acme Corp,Technology,Proposal,Asia,David,Analytics Suite,141114,61,2024-03-23,2024-06-26
+416,Umbrella,Finance,Closed Won,South America,Alice,AI Module,27385,33,2024-05-07,2024-06-15
+417,Globex,Finance,Negotiation,Europe,Frank,Cloud Platform,134765,34,2024-03-10,2024-07-04
+418,Soylent,Finance,Closed Lost,Asia,Frank,Analytics Suite,69478,84,2024-07-08,2024-10-29
+419,Umbrella,Healthcare,Negotiation,Middle East,Frank,AI Module,184676,85,2024-05-30,2024-09-19
+420,Globex,Finance,Negotiation,Europe,Charlie,Analytics Suite,18494,64,2024-09-26,2025-01-01
+421,Globex,Technology,Negotiation,South America,Alice,CRM System,159581,63,2024-09-11,2024-11-26
+422,Initech,Finance,Negotiation,South America,Bob,AI Module,47835,78,2024-07-28,2024-09-18
+423,Acme Corp,Manufacturing,Prospecting,Europe,Bob,Security Package,122592,91,2024-02-13,2024-03-31
+424,Stark Industries,Manufacturing,Closed Won,North America,Charlie,Security Package,195841,78,2024-09-27,2024-12-16
+425,Wayne Enterprises,Retail,Proposal,Europe,Frank,Cloud Platform,107999,36,2024-01-11,2024-02-10
+426,Acme Corp,Manufacturing,Negotiation,Middle East,Eva,CRM System,134965,50,2024-03-06,2024-05-04
+427,Initech,Retail,Negotiation,South America,Alice,Cloud Platform,192454,17,2024-06-27,2024-10-15
+428,Soylent,Manufacturing,Proposal,Asia,Bob,Security Package,190440,12,2024-05-26,2024-07-13
+429,Stark Industries,Healthcare,Proposal,North America,Eva,AI Module,39773,53,2024-07-02,2024-10-05
+430,Acme Corp,Retail,Prospecting,Asia,Eva,CRM System,184048,94,2024-01-01,2024-02-21
+431,Soylent,Manufacturing,Closed Won,Europe,Alice,Analytics Suite,79806,39,2024-08-31,2024-11-30
+432,Wayne Enterprises,Retail,Qualification,South America,Bob,Analytics Suite,84494,76,2024-05-07,2024-06-18
+433,Umbrella,Retail,Closed Lost,Middle East,Eva,AI Module,162593,88,2024-07-22,2024-09-17
+434,Umbrella,Manufacturing,Prospecting,Europe,Bob,Security Package,103999,84,2024-05-18,2024-08-18
+435,Acme Corp,Technology,Qualification,Europe,Eva,Cloud Platform,16999,86,2024-02-14,2024-03-22
+436,Acme Corp,Finance,Prospecting,Asia,Alice,Security Package,129398,56,2024-04-16,2024-07-10
+437,Umbrella,Retail,Closed Won,Asia,Alice,AI Module,193827,49,2024-01-07,2024-04-11
+438,Hooli,Retail,Closed Won,South America,Bob,Security Package,93481,63,2024-08-02,2024-10-23
+439,Umbrella,Retail,Qualification,Asia,Alice,Cloud Platform,111384,24,2024-01-13,2024-03-25
+440,Stark Industries,Finance,Negotiation,North America,David,Cloud Platform,23064,40,2024-02-11,2024-05-18
+441,Wayne Enterprises,Retail,Closed Lost,South America,Alice,CRM System,163139,77,2024-04-03,2024-05-23
+442,Acme Corp,Retail,Negotiation,Middle East,Charlie,CRM System,154136,88,2024-09-20,2024-12-22
+443,Umbrella,Manufacturing,Negotiation,North America,Alice,CRM System,150638,31,2024-05-26,2024-06-25
+444,Acme Corp,Technology,Qualification,Europe,Bob,Security Package,162491,46,2024-03-29,2024-07-08
+445,Wayne Enterprises,Healthcare,Negotiation,Asia,Frank,Analytics Suite,102767,79,2024-08-13,2024-08-29
+446,Wayne Enterprises,Healthcare,Proposal,Middle East,Eva,Security Package,14820,50,2024-04-08,2024-05-29
+447,Hooli,Finance,Proposal,South America,David,Cloud Platform,144799,26,2024-02-05,2024-05-17
+448,Initech,Healthcare,Closed Won,Asia,Bob,CRM System,20518,17,2024-04-02,2024-06-26
+449,Globex,Technology,Qualification,North America,Bob,AI Module,58870,94,2024-08-29,2024-09-14
+450,Acme Corp,Healthcare,Negotiation,Europe,Eva,Analytics Suite,22190,29,2024-04-12,2024-07-11
+451,Soylent,Technology,Proposal,Europe,Eva,Security Package,50794,12,2024-08-24,2024-10-04
+452,Wayne Enterprises,Technology,Negotiation,Asia,Charlie,Analytics Suite,179719,70,2024-10-10,2024-12-04
+453,Acme Corp,Manufacturing,Closed Lost,South America,Bob,AI Module,162770,42,2024-04-04,2024-06-24
+454,Umbrella,Healthcare,Prospecting,South America,David,CRM System,51568,28,2024-08-07,2024-09-22
+455,Soylent,Retail,Negotiation,Asia,Charlie,CRM System,169732,61,2024-01-09,2024-02-13
+456,Soylent,Finance,Closed Won,Asia,Charlie,Cloud Platform,120114,57,2024-10-12,2024-11-20
+457,Globex,Retail,Prospecting,Asia,David,Security Package,121198,71,2024-05-23,2024-07-18
+458,Acme Corp,Healthcare,Qualification,Middle East,Eva,Cloud Platform,153174,27,2024-09-16,2024-12-04
+459,Initech,Healthcare,Negotiation,Asia,Eva,Analytics Suite,155865,76,2024-05-31,2024-08-06
+460,Stark Industries,Retail,Negotiation,Middle East,Bob,AI Module,78980,64,2024-08-16,2024-10-28
+461,Stark Industries,Manufacturing,Prospecting,North America,Charlie,AI Module,151807,19,2024-01-22,2024-04-13
+462,Soylent,Healthcare,Closed Won,Asia,David,Cloud Platform,49201,52,2024-07-19,2024-10-05
+463,Soylent,Manufacturing,Closed Won,Asia,David,Cloud Platform,9332,80,2024-07-16,2024-08-28
+464,Initech,Finance,Closed Won,South America,David,Analytics Suite,87819,31,2024-02-21,2024-04-08
+465,Soylent,Healthcare,Closed Lost,Asia,Charlie,CRM System,16760,59,2024-01-13,2024-01-24
+466,Stark Industries,Retail,Qualification,Middle East,Alice,AI Module,8189,55,2024-04-10,2024-05-13
+467,Umbrella,Manufacturing,Prospecting,Middle East,Alice,Cloud Platform,24671,17,2024-05-18,2024-07-16
+468,Initech,Finance,Proposal,Asia,Bob,AI Module,105349,95,2024-07-04,2024-07-26
+469,Umbrella,Technology,Qualification,Middle East,Frank,CRM System,64413,83,2024-07-06,2024-07-17
+470,Wayne Enterprises,Finance,Closed Won,Asia,Charlie,AI Module,69572,99,2024-08-20,2024-11-09
+471,Acme Corp,Manufacturing,Closed Won,North America,Frank,CRM System,36254,28,2024-07-22,2024-11-01
+472,Hooli,Healthcare,Negotiation,Middle East,Charlie,CRM System,107424,70,2024-02-12,2024-03-01
+473,Hooli,Healthcare,Closed Lost,Middle East,Alice,Security Package,166417,81,2024-09-12,2024-11-07
+474,Hooli,Technology,Closed Lost,Middle East,Eva,Analytics Suite,173486,88,2024-02-23,2024-04-09
+475,Acme Corp,Manufacturing,Qualification,Middle East,Alice,AI Module,27336,14,2024-03-29,2024-05-26
+476,Acme Corp,Healthcare,Prospecting,Asia,Frank,CRM System,167127,93,2024-10-26,2024-12-31
+477,Wayne Enterprises,Healthcare,Closed Won,Asia,Charlie,AI Module,189812,83,2024-01-07,2024-02-27
+478,Wayne Enterprises,Manufacturing,Proposal,North America,Frank,Cloud Platform,20337,30,2024-03-29,2024-07-05
+479,Hooli,Finance,Negotiation,Asia,David,Analytics Suite,46102,76,2024-05-31,2024-08-13
+480,Umbrella,Retail,Prospecting,Middle East,Charlie,Analytics Suite,94169,23,2024-10-23,2025-02-08
+481,Soylent,Finance,Prospecting,North America,Bob,Cloud Platform,169538,71,2024-01-06,2024-03-01
+482,Wayne Enterprises,Manufacturing,Closed Lost,Europe,Alice,Cloud Platform,58609,25,2024-05-22,2024-07-16
+483,Soylent,Finance,Prospecting,South America,Bob,AI Module,34251,60,2024-05-24,2024-06-18
+484,Hooli,Healthcare,Closed Lost,North America,Alice,Security Package,87160,63,2024-06-17,2024-08-05
+485,Initech,Manufacturing,Closed Lost,South America,Alice,AI Module,31835,79,2024-10-09,2024-10-21
+486,Initech,Healthcare,Closed Lost,Middle East,Bob,AI Module,48090,86,2024-01-15,2024-03-07
+487,Soylent,Healthcare,Negotiation,Europe,Bob,CRM System,169203,52,2024-07-26,2024-08-16
+488,Stark Industries,Healthcare,Proposal,South America,David,AI Module,9785,47,2024-08-20,2024-11-06
+489,Globex,Finance,Closed Won,North America,Frank,Analytics Suite,156937,15,2024-09-28,2025-01-11
+490,Umbrella,Retail,Negotiation,Asia,Bob,Security Package,145935,62,2024-07-07,2024-09-25
+491,Umbrella,Technology,Negotiation,South America,Eva,Cloud Platform,71172,70,2024-05-27,2024-08-05
+492,Umbrella,Retail,Proposal,Asia,Charlie,Analytics Suite,113690,69,2024-05-02,2024-07-17
+493,Globex,Technology,Prospecting,South America,Frank,Cloud Platform,92791,40,2024-07-09,2024-09-14
+494,Initech,Manufacturing,Closed Won,Middle East,David,CRM System,47147,17,2024-03-20,2024-06-12
+495,Hooli,Retail,Qualification,Asia,Alice,AI Module,55152,94,2024-05-13,2024-08-31
+496,Initech,Technology,Prospecting,Europe,Frank,CRM System,18983,93,2024-03-12,2024-05-03
+497,Umbrella,Healthcare,Closed Lost,North America,Eva,Cloud Platform,143433,44,2024-02-18,2024-04-13
+498,Stark Industries,Manufacturing,Prospecting,Europe,Bob,AI Module,36450,36,2024-09-27,2024-12-27
+499,Hooli,Retail,Proposal,South America,Bob,AI Module,49281,49,2024-09-15,2024-12-10
+500,Initech,Finance,Qualification,South America,Eva,CRM System,11552,85,2024-10-24,2025-02-15
+501,Umbrella,Manufacturing,Closed Won,Europe,Charlie,Cloud Platform,129198,92,2024-02-19,2024-03-17
+502,Wayne Enterprises,Healthcare,Closed Won,South America,Eva,Security Package,181169,27,2024-04-17,2024-06-13
+503,Soylent,Healthcare,Closed Won,Middle East,Alice,CRM System,79936,74,2024-06-13,2024-08-15
+504,Soylent,Healthcare,Proposal,North America,Frank,Analytics Suite,85459,71,2024-07-21,2024-08-07
+505,Initech,Technology,Closed Lost,Middle East,Eva,Analytics Suite,119467,64,2024-05-26,2024-08-19
+506,Hooli,Retail,Qualification,Asia,Frank,Analytics Suite,189651,14,2024-02-14,2024-03-21
+507,Wayne Enterprises,Manufacturing,Qualification,North America,David,Cloud Platform,163449,90,2024-02-18,2024-03-21
+508,Globex,Retail,Prospecting,North America,Eva,Analytics Suite,86455,66,2024-06-05,2024-09-23
+509,Stark Industries,Retail,Closed Lost,South America,Eva,Analytics Suite,84281,99,2024-10-17,2025-01-26
+510,Initech,Technology,Negotiation,Asia,Alice,AI Module,36473,38,2024-08-23,2024-11-17
+511,Hooli,Technology,Qualification,Europe,Alice,AI Module,191226,27,2024-05-02,2024-07-22
+512,Acme Corp,Healthcare,Closed Won,Asia,Charlie,AI Module,182517,17,2024-10-20,2025-01-20
+513,Stark Industries,Retail,Closed Won,Europe,Alice,Cloud Platform,40101,53,2024-08-22,2024-11-03
+514,Umbrella,Technology,Negotiation,Asia,Alice,Analytics Suite,42860,74,2024-08-11,2024-11-10
+515,Acme Corp,Healthcare,Negotiation,Asia,Alice,CRM System,100026,59,2024-10-26,2024-12-29
+516,Initech,Manufacturing,Prospecting,Europe,Eva,Analytics Suite,199681,82,2024-10-21,2024-11-07
+517,Soylent,Technology,Prospecting,Middle East,Eva,AI Module,184082,94,2024-06-25,2024-08-28
+518,Umbrella,Technology,Proposal,South America,Alice,Analytics Suite,75186,11,2024-09-17,2024-12-07
+519,Initech,Manufacturing,Closed Lost,South America,Bob,AI Module,165764,37,2024-07-26,2024-08-13
+520,Globex,Manufacturing,Closed Won,South America,Alice,Analytics Suite,194643,53,2024-06-04,2024-09-06
+521,Initech,Technology,Proposal,Europe,Alice,Cloud Platform,132673,68,2024-09-02,2024-10-31
+522,Globex,Manufacturing,Closed Won,South America,Frank,Security Package,112625,25,2024-01-11,2024-02-01
+523,Soylent,Manufacturing,Proposal,North America,Charlie,Security Package,147791,62,2024-04-16,2024-07-23
+524,Hooli,Healthcare,Prospecting,Asia,Alice,Analytics Suite,179973,19,2024-09-20,2024-11-19
+525,Globex,Technology,Qualification,Europe,Alice,CRM System,140607,34,2024-07-01,2024-08-06
+526,Stark Industries,Manufacturing,Closed Lost,Europe,Frank,Analytics Suite,77916,82,2024-08-04,2024-08-27
+527,Stark Industries,Healthcare,Negotiation,North America,Charlie,Analytics Suite,5710,99,2024-08-12,2024-10-05
+528,Wayne Enterprises,Technology,Closed Won,Asia,Alice,Security Package,141760,56,2024-09-08,2024-09-30
+529,Acme Corp,Technology,Closed Lost,South America,Alice,Analytics Suite,187684,55,2024-08-04,2024-10-28
+530,Hooli,Technology,Prospecting,Europe,David,Analytics Suite,7303,75,2024-07-31,2024-10-27
+531,Acme Corp,Manufacturing,Prospecting,Europe,Frank,AI Module,195096,64,2024-08-10,2024-09-08
+532,Wayne Enterprises,Manufacturing,Prospecting,Europe,Charlie,Analytics Suite,82885,82,2024-09-17,2024-10-31
+533,Acme Corp,Retail,Proposal,Europe,Charlie,AI Module,195276,89,2024-02-23,2024-03-22
+534,Acme Corp,Healthcare,Closed Lost,Europe,David,Cloud Platform,40013,34,2024-06-07,2024-09-27
+535,Stark Industries,Retail,Negotiation,Europe,Charlie,CRM System,157024,18,2024-01-21,2024-03-31
+536,Acme Corp,Healthcare,Prospecting,North America,Frank,Analytics Suite,8756,27,2024-02-28,2024-05-13
+537,Wayne Enterprises,Finance,Proposal,Europe,Bob,AI Module,113854,49,2024-02-21,2024-04-02
+538,Globex,Retail,Prospecting,Middle East,Eva,AI Module,46968,94,2024-03-01,2024-05-19
+539,Acme Corp,Technology,Proposal,Asia,Eva,Analytics Suite,113448,16,2024-02-19,2024-04-20
+540,Umbrella,Finance,Closed Lost,Asia,Frank,Security Package,143862,56,2024-09-30,2025-01-21
+541,Stark Industries,Finance,Qualification,South America,Charlie,Security Package,66132,92,2024-07-13,2024-07-31
+542,Globex,Finance,Proposal,Europe,Eva,Analytics Suite,178505,36,2024-04-13,2024-05-25
+543,Wayne Enterprises,Healthcare,Closed Won,Europe,Alice,Analytics Suite,59681,89,2024-02-29,2024-03-16
+544,Soylent,Manufacturing,Negotiation,North America,Alice,Security Package,158925,17,2024-04-17,2024-05-30
+545,Globex,Manufacturing,Proposal,Middle East,Bob,Analytics Suite,164820,11,2024-02-17,2024-02-27
+546,Initech,Finance,Negotiation,Asia,David,Analytics Suite,190246,38,2024-08-02,2024-08-15
+547,Soylent,Manufacturing,Proposal,Asia,Frank,Security Package,9776,26,2024-01-30,2024-04-12
+548,Acme Corp,Technology,Negotiation,South America,Eva,AI Module,106788,39,2024-06-14,2024-08-04
+549,Acme Corp,Manufacturing,Closed Lost,Europe,Bob,Cloud Platform,128380,86,2024-02-12,2024-04-15
+550,Initech,Healthcare,Qualification,North America,Eva,Analytics Suite,76964,11,2024-08-14,2024-10-10
+551,Hooli,Finance,Closed Won,South America,Alice,Security Package,78739,39,2024-08-27,2024-11-03
+552,Wayne Enterprises,Retail,Closed Won,South America,Bob,Analytics Suite,24037,56,2024-04-12,2024-06-30
+553,Acme Corp,Technology,Closed Won,South America,Frank,Analytics Suite,68041,91,2024-10-04,2024-11-27
+554,Soylent,Retail,Proposal,North America,Bob,AI Module,32752,15,2024-05-30,2024-09-15
+555,Soylent,Finance,Closed Won,North America,David,Cloud Platform,10504,31,2024-01-04,2024-01-15
+556,Soylent,Finance,Prospecting,Europe,Alice,Analytics Suite,17396,15,2024-10-01,2025-01-22
+557,Globex,Retail,Prospecting,North America,Bob,Cloud Platform,95874,98,2024-02-11,2024-03-03
+558,Wayne Enterprises,Finance,Closed Won,South America,Alice,Security Package,97344,25,2024-02-04,2024-02-27
+559,Stark Industries,Finance,Closed Lost,Europe,Alice,Security Package,32644,64,2024-05-17,2024-06-08
+560,Stark Industries,Finance,Closed Won,South America,Charlie,CRM System,158679,55,2024-04-24,2024-07-19
+561,Globex,Manufacturing,Proposal,South America,Charlie,AI Module,75507,97,2024-10-15,2024-11-11
+562,Soylent,Manufacturing,Closed Won,Asia,David,Security Package,25148,57,2024-01-30,2024-04-08
+563,Globex,Healthcare,Negotiation,North America,Alice,Analytics Suite,44184,95,2024-08-12,2024-10-02
+564,Hooli,Retail,Closed Lost,Asia,Charlie,Analytics Suite,83413,52,2024-09-08,2024-11-09
+565,Globex,Technology,Qualification,Asia,Frank,Security Package,74145,32,2024-05-17,2024-08-24
+566,Wayne Enterprises,Retail,Proposal,South America,Frank,CRM System,106353,42,2024-02-28,2024-06-24
+567,Umbrella,Retail,Proposal,North America,Eva,AI Module,117956,83,2024-07-02,2024-08-16
+568,Hooli,Healthcare,Prospecting,South America,Alice,CRM System,188239,69,2024-04-09,2024-05-15
+569,Globex,Manufacturing,Proposal,Middle East,Bob,Cloud Platform,119067,57,2024-09-11,2024-11-15
+570,Umbrella,Technology,Proposal,South America,Alice,AI Module,28014,38,2024-10-25,2025-01-05
+571,Hooli,Technology,Qualification,South America,Bob,AI Module,14793,20,2024-03-10,2024-06-26
+572,Wayne Enterprises,Healthcare,Closed Lost,North America,David,Analytics Suite,183283,31,2024-01-18,2024-03-21
+573,Umbrella,Finance,Negotiation,South America,Charlie,AI Module,27974,85,2024-02-18,2024-05-10
+574,Stark Industries,Retail,Qualification,South America,Eva,AI Module,31792,29,2024-08-28,2024-10-19
+575,Stark Industries,Retail,Closed Lost,Asia,Charlie,Analytics Suite,52247,89,2024-07-11,2024-09-30
+576,Wayne Enterprises,Technology,Closed Lost,South America,Frank,AI Module,58523,19,2024-09-17,2024-10-10
+577,Globex,Retail,Closed Lost,North America,Bob,CRM System,94756,34,2024-06-25,2024-07-13
+578,Globex,Technology,Negotiation,Asia,Frank,AI Module,164457,59,2024-08-19,2024-09-24
+579,Globex,Manufacturing,Prospecting,Europe,David,Security Package,124832,60,2024-01-29,2024-05-01
+580,Stark Industries,Manufacturing,Closed Lost,Europe,Bob,AI Module,133404,62,2024-02-27,2024-04-24
+581,Acme Corp,Technology,Qualification,South America,Frank,AI Module,15942,93,2024-02-14,2024-04-21
+582,Umbrella,Healthcare,Qualification,Asia,David,Cloud Platform,89942,24,2024-08-07,2024-09-16
+583,Acme Corp,Retail,Qualification,Middle East,Frank,Cloud Platform,131095,41,2024-06-15,2024-09-08
+584,Soylent,Technology,Closed Won,Europe,David,CRM System,23052,80,2024-03-09,2024-05-12
+585,Globex,Healthcare,Closed Won,Asia,Frank,Cloud Platform,92403,39,2024-03-31,2024-06-05
+586,Soylent,Manufacturing,Closed Lost,Europe,Eva,CRM System,55788,47,2024-06-01,2024-07-30
+587,Hooli,Retail,Qualification,Asia,Eva,Cloud Platform,176230,55,2024-03-16,2024-07-03
+588,Acme Corp,Retail,Proposal,South America,Charlie,Cloud Platform,30696,90,2024-10-08,2024-11-06
+589,Umbrella,Manufacturing,Prospecting,Asia,Eva,Analytics Suite,50927,68,2024-02-22,2024-03-25
+590,Stark Industries,Finance,Proposal,Asia,Bob,CRM System,71026,15,2024-08-03,2024-11-21
+591,Initech,Technology,Prospecting,North America,Bob,AI Module,56797,92,2024-10-03,2024-11-01
+592,Globex,Healthcare,Closed Lost,South America,Frank,Cloud Platform,93691,59,2024-01-20,2024-03-17
+593,Soylent,Healthcare,Prospecting,Middle East,Frank,CRM System,163593,91,2024-05-19,2024-07-18
+594,Soylent,Finance,Closed Won,Europe,David,AI Module,87610,43,2024-08-06,2024-11-22
+595,Soylent,Healthcare,Prospecting,Asia,Charlie,Cloud Platform,73631,97,2024-10-24,2025-01-15
+596,Acme Corp,Healthcare,Qualification,Asia,Frank,Security Package,139208,60,2024-02-11,2024-04-04
+597,Acme Corp,Retail,Qualification,South America,Charlie,AI Module,99478,26,2024-09-19,2024-10-17
+598,Wayne Enterprises,Technology,Closed Lost,North America,Charlie,Cloud Platform,140643,95,2024-04-07,2024-06-08
+599,Initech,Retail,Closed Lost,Europe,David,Cloud Platform,115068,55,2024-05-21,2024-09-16
+600,Hooli,Manufacturing,Prospecting,Middle East,Eva,AI Module,43093,54,2024-04-25,2024-05-10
+601,Acme Corp,Retail,Closed Won,Asia,Alice,CRM System,20714,31,2024-05-10,2024-06-15
+602,Stark Industries,Finance,Proposal,North America,Bob,Analytics Suite,149770,57,2024-01-30,2024-02-24
+603,Umbrella,Technology,Closed Won,Europe,David,Cloud Platform,113897,36,2024-08-28,2024-10-08
+604,Umbrella,Finance,Closed Won,Europe,Bob,CRM System,71766,56,2024-02-25,2024-03-17
+605,Wayne Enterprises,Technology,Proposal,Middle East,Eva,Security Package,188596,14,2024-10-07,2024-10-19
+606,Wayne Enterprises,Technology,Qualification,South America,Eva,AI Module,195151,48,2024-08-27,2024-10-31
+607,Soylent,Technology,Closed Lost,Europe,David,CRM System,12195,87,2024-04-16,2024-06-07
+608,Stark Industries,Healthcare,Negotiation,Europe,David,CRM System,166175,83,2024-05-22,2024-08-18
+609,Globex,Retail,Closed Won,Middle East,Alice,CRM System,114667,80,2024-05-29,2024-06-20
+610,Soylent,Healthcare,Qualification,Asia,Charlie,Analytics Suite,87671,45,2024-07-02,2024-09-24
+611,Umbrella,Healthcare,Prospecting,South America,Alice,Analytics Suite,19393,22,2024-09-09,2024-11-29
+612,Wayne Enterprises,Retail,Closed Won,Middle East,David,Security Package,113023,15,2024-08-12,2024-09-13
+613,Umbrella,Finance,Closed Won,Asia,Alice,Cloud Platform,93249,66,2024-03-25,2024-05-29
+614,Umbrella,Technology,Prospecting,Middle East,Frank,Analytics Suite,46226,38,2024-10-16,2025-01-13
+615,Soylent,Finance,Negotiation,Middle East,Frank,Analytics Suite,31632,92,2024-05-20,2024-07-21
+616,Initech,Finance,Negotiation,Middle East,Frank,Analytics Suite,147094,72,2024-04-07,2024-06-23
+617,Globex,Manufacturing,Proposal,North America,Bob,Analytics Suite,113509,99,2024-05-17,2024-08-14
+618,Initech,Healthcare,Closed Lost,Middle East,Eva,Security Package,112103,25,2024-05-22,2024-09-16
+619,Initech,Technology,Prospecting,Asia,Eva,CRM System,195259,57,2024-03-28,2024-07-12
+620,Globex,Retail,Qualification,Asia,Alice,AI Module,42289,45,2024-08-21,2024-09-02
+621,Umbrella,Finance,Qualification,Europe,Frank,AI Module,188337,21,2024-08-26,2024-09-30
+622,Umbrella,Manufacturing,Negotiation,North America,Charlie,CRM System,110207,35,2024-05-12,2024-09-08
+623,Soylent,Manufacturing,Proposal,Asia,David,Cloud Platform,109701,28,2024-09-25,2024-12-03
+624,Soylent,Finance,Closed Lost,North America,Eva,Security Package,153269,70,2024-03-22,2024-04-07
+625,Initech,Finance,Proposal,Europe,Alice,Security Package,23783,61,2024-07-02,2024-07-25
+626,Globex,Manufacturing,Qualification,North America,David,Analytics Suite,42530,78,2024-03-19,2024-06-13
+627,Globex,Healthcare,Closed Lost,Asia,Eva,CRM System,8829,53,2024-01-10,2024-04-23
+628,Acme Corp,Manufacturing,Closed Lost,South America,Frank,Analytics Suite,20461,24,2024-06-14,2024-09-21
+629,Wayne Enterprises,Manufacturing,Proposal,North America,Alice,AI Module,114311,15,2024-09-14,2024-11-09
+630,Acme Corp,Manufacturing,Closed Lost,North America,David,AI Module,163661,10,2024-08-27,2024-09-07
+631,Initech,Healthcare,Negotiation,South America,Charlie,CRM System,21973,56,2024-01-27,2024-04-01
+632,Soylent,Healthcare,Negotiation,Middle East,Alice,AI Module,73885,14,2024-10-22,2025-01-19
+633,Umbrella,Healthcare,Proposal,South America,Alice,Security Package,164746,71,2024-06-18,2024-08-18
+634,Hooli,Retail,Negotiation,Middle East,Alice,Analytics Suite,105591,31,2024-06-02,2024-08-23
+635,Stark Industries,Retail,Closed Lost,South America,Eva,Security Package,13608,94,2024-04-19,2024-08-15
+636,Umbrella,Retail,Negotiation,North America,Charlie,CRM System,195020,60,2024-10-16,2025-01-25
+637,Initech,Retail,Proposal,Middle East,Frank,CRM System,66564,24,2024-09-03,2024-11-16
+638,Globex,Technology,Negotiation,Middle East,Charlie,AI Module,56112,65,2024-04-30,2024-06-22
+639,Acme Corp,Technology,Prospecting,South America,Frank,Cloud Platform,33865,79,2024-10-04,2024-11-19
+640,Soylent,Technology,Negotiation,North America,Alice,Cloud Platform,69886,22,2024-05-05,2024-07-13
+641,Globex,Finance,Closed Won,North America,Frank,CRM System,89327,67,2024-02-24,2024-06-05
+642,Soylent,Technology,Qualification,North America,Alice,Security Package,43462,13,2024-03-20,2024-05-11
+643,Soylent,Finance,Prospecting,Middle East,Charlie,Analytics Suite,86130,39,2024-09-24,2024-11-16
+644,Initech,Manufacturing,Proposal,Middle East,David,Cloud Platform,68295,43,2024-08-08,2024-12-02
+645,Acme Corp,Technology,Qualification,Middle East,Alice,Cloud Platform,196692,58,2024-10-16,2025-01-17
+646,Acme Corp,Healthcare,Closed Won,North America,Charlie,Security Package,22210,47,2024-09-23,2024-11-06
+647,Hooli,Retail,Qualification,Europe,Eva,CRM System,61749,28,2024-01-11,2024-03-30
+648,Umbrella,Finance,Negotiation,Europe,Charlie,AI Module,117204,83,2024-08-19,2024-12-05
+649,Globex,Manufacturing,Qualification,Middle East,David,Security Package,188619,46,2024-10-22,2024-12-05
+650,Hooli,Technology,Proposal,Middle East,Alice,CRM System,41054,77,2024-10-15,2024-12-29
+651,Hooli,Retail,Negotiation,North America,Frank,Analytics Suite,124551,15,2024-06-12,2024-09-26
+652,Globex,Healthcare,Negotiation,North America,Charlie,CRM System,195597,70,2024-07-19,2024-07-29
+653,Wayne Enterprises,Manufacturing,Closed Won,Europe,Bob,AI Module,66140,73,2024-03-28,2024-06-09
+654,Hooli,Healthcare,Closed Lost,Europe,Alice,CRM System,39570,82,2024-07-24,2024-11-12
+655,Stark Industries,Technology,Qualification,South America,Alice,CRM System,178160,83,2024-04-10,2024-04-22
+656,Acme Corp,Finance,Closed Lost,North America,Bob,Security Package,139170,27,2024-03-23,2024-06-10
+657,Stark Industries,Manufacturing,Closed Won,Asia,Alice,AI Module,162337,97,2024-06-23,2024-08-29
+658,Soylent,Technology,Negotiation,South America,Eva,AI Module,55398,77,2024-08-14,2024-11-08
+659,Wayne Enterprises,Technology,Negotiation,North America,Eva,Cloud Platform,171169,13,2024-01-21,2024-02-01
+660,Umbrella,Finance,Closed Won,Asia,David,Cloud Platform,85453,79,2024-01-27,2024-02-13
+661,Hooli,Finance,Negotiation,Asia,Frank,Analytics Suite,94371,54,2024-09-25,2024-11-13
+662,Umbrella,Technology,Closed Lost,Middle East,David,Analytics Suite,88136,85,2024-09-30,2024-11-13
+663,Soylent,Finance,Closed Lost,Middle East,Charlie,AI Module,19082,51,2024-10-19,2025-02-14
+664,Umbrella,Manufacturing,Qualification,Asia,Charlie,CRM System,72017,72,2024-02-04,2024-05-19
+665,Stark Industries,Finance,Prospecting,Asia,Eva,Cloud Platform,188741,53,2024-01-11,2024-04-18
+666,Soylent,Manufacturing,Closed Lost,South America,Alice,Analytics Suite,82607,89,2024-02-21,2024-05-19
+667,Wayne Enterprises,Technology,Closed Won,Asia,Frank,AI Module,14623,10,2024-05-10,2024-07-15
+668,Umbrella,Retail,Proposal,Middle East,Frank,CRM System,80755,26,2024-07-12,2024-09-11
+669,Wayne Enterprises,Technology,Prospecting,Middle East,Bob,Security Package,154940,43,2024-03-09,2024-06-22
+670,Acme Corp,Technology,Proposal,Middle East,Frank,CRM System,21418,55,2024-07-04,2024-08-04
+671,Hooli,Technology,Negotiation,Europe,Eva,Cloud Platform,174439,53,2024-09-18,2024-12-20
+672,Umbrella,Manufacturing,Prospecting,South America,David,CRM System,187146,81,2024-08-23,2024-10-03
+673,Umbrella,Retail,Negotiation,South America,David,Cloud Platform,182508,91,2024-09-06,2024-12-12
+674,Stark Industries,Finance,Negotiation,South America,David,Security Package,122531,47,2024-08-26,2024-10-23
+675,Globex,Healthcare,Closed Lost,Europe,Frank,CRM System,58915,51,2024-01-04,2024-03-03
+676,Umbrella,Manufacturing,Closed Won,South America,Frank,Security Package,11336,48,2024-09-26,2024-12-05
+677,Wayne Enterprises,Technology,Proposal,Europe,Bob,Cloud Platform,14464,45,2024-04-04,2024-06-14
+678,Hooli,Technology,Closed Lost,Europe,David,Cloud Platform,63184,59,2024-06-20,2024-10-07
+679,Hooli,Healthcare,Qualification,Asia,David,Cloud Platform,122896,91,2024-09-15,2024-11-14
+680,Soylent,Finance,Closed Won,Europe,Charlie,AI Module,20117,25,2024-01-06,2024-02-17
+681,Acme Corp,Retail,Closed Won,North America,Alice,Cloud Platform,108956,64,2024-02-21,2024-05-05
+682,Umbrella,Technology,Proposal,North America,Frank,Analytics Suite,152056,52,2024-10-06,2025-01-25
+683,Stark Industries,Healthcare,Closed Won,South America,Alice,CRM System,74013,99,2024-05-23,2024-06-22
+684,Acme Corp,Technology,Proposal,North America,Bob,AI Module,197641,82,2024-03-15,2024-06-05
+685,Acme Corp,Healthcare,Closed Won,Asia,David,Security Package,11054,55,2024-08-08,2024-09-30
+686,Umbrella,Finance,Prospecting,North America,Charlie,Security Package,198262,55,2024-04-04,2024-06-22
+687,Stark Industries,Healthcare,Proposal,Europe,Alice,Analytics Suite,161472,25,2024-09-12,2024-11-01
+688,Globex,Technology,Qualification,North America,Bob,CRM System,140832,72,2024-03-28,2024-05-02
+689,Initech,Manufacturing,Closed Lost,Middle East,Charlie,Analytics Suite,69349,62,2024-04-09,2024-06-28
+690,Umbrella,Finance,Closed Won,Asia,David,CRM System,100647,45,2024-05-13,2024-06-10
+691,Initech,Healthcare,Closed Lost,South America,Bob,Security Package,141853,66,2024-04-10,2024-07-16
+692,Umbrella,Manufacturing,Prospecting,Middle East,Frank,Analytics Suite,150116,11,2024-06-07,2024-08-25
+693,Wayne Enterprises,Retail,Closed Lost,Asia,Charlie,Security Package,123492,65,2024-09-16,2024-12-09
+694,Acme Corp,Retail,Qualification,Asia,Alice,CRM System,159207,37,2024-01-12,2024-04-30
+695,Umbrella,Healthcare,Closed Won,Asia,Eva,Analytics Suite,76606,51,2024-07-04,2024-09-05
+696,Initech,Finance,Closed Won,North America,Alice,Analytics Suite,124434,12,2024-01-28,2024-03-28
+697,Stark Industries,Technology,Closed Lost,North America,Eva,AI Module,23480,24,2024-05-08,2024-06-07
+698,Acme Corp,Retail,Closed Lost,Middle East,Bob,AI Module,163693,34,2024-05-19,2024-08-01
+699,Umbrella,Manufacturing,Closed Lost,Middle East,Charlie,CRM System,102779,98,2024-06-13,2024-08-07
+700,Stark Industries,Manufacturing,Negotiation,Europe,Charlie,CRM System,13324,29,2024-03-07,2024-06-20
+701,Globex,Manufacturing,Closed Won,Europe,Charlie,Analytics Suite,50542,15,2024-04-04,2024-04-21
+702,Soylent,Retail,Qualification,Europe,David,AI Module,49155,45,2024-09-11,2024-12-10
+703,Umbrella,Healthcare,Qualification,Asia,Alice,CRM System,27636,43,2024-10-10,2025-01-27
+704,Globex,Retail,Prospecting,South America,Eva,Analytics Suite,88150,86,2024-04-27,2024-08-16
+705,Initech,Finance,Negotiation,Europe,David,CRM System,134507,36,2024-04-20,2024-07-20
+706,Hooli,Finance,Prospecting,Middle East,Bob,Cloud Platform,41535,25,2024-02-10,2024-04-22
+707,Globex,Healthcare,Prospecting,South America,Bob,AI Module,55151,50,2024-02-21,2024-04-26
+708,Soylent,Manufacturing,Closed Won,Europe,Frank,CRM System,91442,25,2024-04-24,2024-07-23
+709,Globex,Retail,Prospecting,North America,Frank,Security Package,150144,45,2024-10-12,2024-11-11
+710,Hooli,Healthcare,Proposal,Europe,David,Analytics Suite,32231,95,2024-06-17,2024-08-01
+711,Umbrella,Technology,Negotiation,Europe,Frank,Analytics Suite,82355,39,2024-02-20,2024-04-05
+712,Globex,Finance,Closed Won,Asia,Eva,AI Module,18640,32,2024-03-21,2024-04-23
+713,Umbrella,Technology,Proposal,Asia,Bob,AI Module,146051,68,2024-08-19,2024-11-25
+714,Initech,Technology,Qualification,Europe,Frank,Analytics Suite,108318,55,2024-01-12,2024-03-19
+715,Soylent,Retail,Negotiation,Asia,Frank,CRM System,11695,13,2024-10-15,2024-11-04
+716,Hooli,Healthcare,Qualification,North America,Frank,AI Module,127792,99,2024-04-14,2024-05-15
+717,Globex,Technology,Closed Lost,South America,Alice,AI Module,152490,89,2024-06-04,2024-09-06
+718,Wayne Enterprises,Technology,Qualification,South America,Bob,Analytics Suite,25771,99,2024-06-27,2024-10-20
+719,Wayne Enterprises,Manufacturing,Closed Won,Asia,Eva,Analytics Suite,85372,77,2024-07-07,2024-10-16
+720,Soylent,Manufacturing,Proposal,Europe,Frank,CRM System,59244,68,2024-06-08,2024-07-08
+721,Globex,Technology,Negotiation,North America,Alice,Analytics Suite,141628,30,2024-04-22,2024-08-11
+722,Stark Industries,Retail,Closed Won,North America,David,Cloud Platform,197735,67,2024-07-20,2024-10-22
+723,Soylent,Technology,Prospecting,Middle East,Eva,CRM System,32390,70,2024-08-21,2024-11-21
+724,Globex,Finance,Negotiation,Asia,Alice,Security Package,27203,33,2024-07-26,2024-08-24
+725,Initech,Healthcare,Closed Won,Middle East,Frank,CRM System,164140,13,2024-01-12,2024-04-05
+726,Hooli,Retail,Negotiation,Asia,Alice,Cloud Platform,19897,97,2024-07-15,2024-10-04
+727,Stark Industries,Manufacturing,Negotiation,Middle East,Alice,Security Package,66970,77,2024-10-16,2024-12-07
+728,Hooli,Healthcare,Closed Won,Europe,Eva,CRM System,45333,19,2024-07-03,2024-09-14
+729,Wayne Enterprises,Finance,Qualification,Asia,Frank,Analytics Suite,60606,40,2024-09-05,2024-12-29
+730,Initech,Retail,Qualification,South America,Charlie,Security Package,152647,25,2024-06-04,2024-09-17
+731,Umbrella,Retail,Closed Won,Asia,Bob,AI Module,22455,10,2024-04-05,2024-07-02
+732,Globex,Retail,Negotiation,South America,Charlie,Analytics Suite,44154,89,2024-05-25,2024-09-05
+733,Initech,Manufacturing,Qualification,Middle East,Frank,CRM System,158557,49,2024-06-12,2024-08-12
+734,Wayne Enterprises,Healthcare,Proposal,Middle East,Bob,Analytics Suite,186952,36,2024-01-18,2024-02-28
+735,Initech,Finance,Prospecting,Europe,Eva,Analytics Suite,48902,71,2024-08-10,2024-09-22
+736,Stark Industries,Technology,Prospecting,South America,Bob,Analytics Suite,182833,98,2024-07-10,2024-10-22
+737,Stark Industries,Technology,Proposal,Europe,Frank,AI Module,179737,57,2024-04-30,2024-08-21
+738,Soylent,Technology,Proposal,North America,Eva,Analytics Suite,172677,71,2024-05-17,2024-09-11
+739,Wayne Enterprises,Healthcare,Proposal,South America,Alice,AI Module,134441,12,2024-01-26,2024-03-09
+740,Initech,Retail,Negotiation,Asia,David,CRM System,188336,83,2024-06-06,2024-07-15
+741,Initech,Finance,Qualification,South America,Charlie,Cloud Platform,5227,44,2024-08-28,2024-09-15
+742,Umbrella,Manufacturing,Proposal,Middle East,Charlie,AI Module,116011,42,2024-04-22,2024-06-06
+743,Stark Industries,Retail,Closed Won,Europe,Eva,Analytics Suite,98474,86,2024-01-01,2024-01-17
+744,Stark Industries,Manufacturing,Closed Lost,North America,Bob,AI Module,32483,95,2024-08-05,2024-10-26
+745,Acme Corp,Retail,Prospecting,Europe,Bob,Security Package,98299,76,2024-08-27,2024-12-24
+746,Hooli,Technology,Prospecting,North America,David,CRM System,197032,70,2024-09-18,2024-11-01
+747,Soylent,Retail,Proposal,Middle East,Alice,Analytics Suite,70176,39,2024-05-21,2024-08-13
+748,Wayne Enterprises,Technology,Qualification,Europe,Bob,Security Package,90627,18,2024-10-20,2024-12-31
+749,Initech,Technology,Proposal,Asia,Bob,Security Package,19345,94,2024-03-25,2024-06-01
+750,Acme Corp,Finance,Closed Won,Asia,Frank,AI Module,148277,67,2024-04-17,2024-06-16
+751,Acme Corp,Finance,Proposal,Europe,Alice,Security Package,134946,38,2024-10-13,2025-02-02
+752,Initech,Manufacturing,Negotiation,Europe,David,Analytics Suite,55701,45,2024-05-10,2024-06-13
+753,Umbrella,Manufacturing,Proposal,North America,Bob,Security Package,22572,10,2024-04-03,2024-06-13
+754,Hooli,Healthcare,Negotiation,Europe,Eva,Security Package,8370,63,2024-03-06,2024-04-10
+755,Wayne Enterprises,Healthcare,Qualification,North America,Alice,AI Module,53892,84,2024-02-11,2024-05-25
+756,Stark Industries,Manufacturing,Closed Lost,Europe,Bob,Analytics Suite,178336,13,2024-03-27,2024-06-18
+757,Stark Industries,Finance,Qualification,Europe,David,Cloud Platform,59064,75,2024-02-08,2024-04-10
+758,Hooli,Technology,Closed Won,South America,Charlie,CRM System,67428,35,2024-04-02,2024-05-12
+759,Hooli,Healthcare,Qualification,North America,Eva,Cloud Platform,119147,22,2024-06-28,2024-08-20
+760,Stark Industries,Finance,Negotiation,Middle East,Frank,Cloud Platform,194612,70,2024-08-25,2024-12-11
+761,Wayne Enterprises,Technology,Qualification,Asia,Eva,Analytics Suite,138722,84,2024-03-28,2024-05-04
+762,Globex,Healthcare,Negotiation,North America,Eva,Analytics Suite,57360,67,2024-01-29,2024-02-15
+763,Stark Industries,Finance,Closed Won,Europe,Eva,Security Package,28190,32,2024-06-23,2024-07-28
+764,Hooli,Manufacturing,Negotiation,Asia,Charlie,CRM System,79141,84,2024-05-17,2024-08-15
+765,Umbrella,Finance,Proposal,Europe,Charlie,AI Module,41334,69,2024-06-04,2024-08-05
+766,Initech,Healthcare,Qualification,Middle East,Charlie,Analytics Suite,56718,66,2024-10-09,2024-12-10
+767,Wayne Enterprises,Technology,Prospecting,North America,Charlie,Analytics Suite,169047,60,2024-05-22,2024-09-17
+768,Soylent,Healthcare,Proposal,North America,David,Security Package,87069,77,2024-05-24,2024-08-08
+769,Globex,Retail,Closed Lost,Europe,Bob,CRM System,75226,42,2024-06-06,2024-08-09
+770,Globex,Manufacturing,Negotiation,Europe,Charlie,AI Module,151371,46,2024-01-07,2024-02-16
+771,Initech,Retail,Closed Lost,North America,Charlie,CRM System,180221,83,2024-02-25,2024-03-10
+772,Initech,Healthcare,Closed Lost,Europe,David,CRM System,77215,45,2024-03-06,2024-05-27
+773,Soylent,Healthcare,Closed Lost,North America,Alice,Security Package,89282,15,2024-03-22,2024-04-21
+774,Stark Industries,Finance,Proposal,South America,David,Cloud Platform,81854,53,2024-05-08,2024-07-04
+775,Hooli,Finance,Proposal,Middle East,Alice,Analytics Suite,57544,79,2024-02-19,2024-06-05
+776,Umbrella,Retail,Proposal,North America,Eva,Cloud Platform,152684,38,2024-01-02,2024-03-13
+777,Stark Industries,Finance,Proposal,Middle East,David,Cloud Platform,153504,19,2024-06-08,2024-08-27
+778,Soylent,Finance,Negotiation,Middle East,Eva,Cloud Platform,57265,71,2024-02-02,2024-03-12
+779,Wayne Enterprises,Retail,Qualification,South America,Alice,Security Package,187466,67,2024-05-02,2024-07-21
+780,Hooli,Finance,Qualification,North America,David,AI Module,93200,75,2024-01-27,2024-03-13
+781,Initech,Retail,Proposal,Europe,Alice,CRM System,124428,28,2024-09-17,2024-12-26
+782,Soylent,Technology,Prospecting,Europe,Alice,Cloud Platform,27948,65,2024-06-18,2024-07-31
+783,Stark Industries,Retail,Qualification,North America,Eva,AI Module,190922,77,2024-06-26,2024-09-28
+784,Hooli,Finance,Negotiation,North America,Alice,Security Package,196372,15,2024-07-06,2024-10-03
+785,Initech,Manufacturing,Negotiation,Middle East,Bob,AI Module,151239,91,2024-02-12,2024-04-18
+786,Globex,Manufacturing,Qualification,Middle East,Charlie,Security Package,117985,48,2024-05-22,2024-06-12
+787,Soylent,Retail,Negotiation,Asia,David,CRM System,92676,37,2024-02-29,2024-03-25
+788,Acme Corp,Manufacturing,Negotiation,Middle East,Eva,Analytics Suite,166560,17,2024-08-03,2024-11-27
+789,Globex,Manufacturing,Closed Won,North America,Charlie,Analytics Suite,119209,69,2024-09-08,2024-10-09
+790,Acme Corp,Finance,Negotiation,Asia,Eva,CRM System,15159,58,2024-01-11,2024-04-21
+791,Initech,Technology,Qualification,Middle East,Bob,Security Package,150840,40,2024-09-24,2024-11-16
+792,Acme Corp,Technology,Qualification,Europe,Frank,Analytics Suite,119988,98,2024-05-05,2024-08-05
+793,Umbrella,Finance,Closed Lost,Middle East,Charlie,Cloud Platform,150379,54,2024-03-03,2024-03-23
+794,Hooli,Technology,Closed Lost,Middle East,David,Security Package,190144,68,2024-05-19,2024-06-10
+795,Initech,Retail,Prospecting,Middle East,Frank,Analytics Suite,132715,63,2024-07-01,2024-08-28
+796,Acme Corp,Technology,Proposal,Middle East,Alice,Analytics Suite,74807,91,2024-07-03,2024-07-15
+797,Initech,Manufacturing,Qualification,South America,Frank,Cloud Platform,120588,91,2024-07-05,2024-09-28
+798,Umbrella,Finance,Negotiation,North America,Alice,CRM System,79778,54,2024-04-18,2024-05-04
+799,Acme Corp,Healthcare,Closed Lost,Asia,Charlie,Analytics Suite,169617,43,2024-08-11,2024-11-26
+800,Acme Corp,Manufacturing,Closed Lost,North America,Eva,Cloud Platform,117473,66,2024-09-21,2024-12-27
+801,Globex,Manufacturing,Prospecting,Middle East,David,AI Module,95235,15,2024-07-28,2024-11-20
+802,Acme Corp,Retail,Closed Won,Europe,Alice,CRM System,31441,56,2024-08-09,2024-11-21
+803,Hooli,Healthcare,Closed Lost,Asia,Charlie,Security Package,16676,16,2024-09-28,2024-12-08
+804,Acme Corp,Retail,Prospecting,North America,Charlie,CRM System,58337,30,2024-05-15,2024-07-27
+805,Initech,Finance,Negotiation,Europe,Bob,Analytics Suite,187596,11,2024-01-25,2024-03-01
+806,Wayne Enterprises,Healthcare,Qualification,Middle East,Frank,Analytics Suite,156087,91,2024-07-21,2024-09-11
+807,Umbrella,Finance,Prospecting,Europe,David,Cloud Platform,22825,81,2024-06-27,2024-10-03
+808,Soylent,Technology,Negotiation,North America,David,Analytics Suite,127461,46,2024-03-13,2024-03-26
+809,Stark Industries,Manufacturing,Closed Won,Asia,Eva,CRM System,92773,31,2024-09-11,2024-12-14
+810,Hooli,Technology,Closed Lost,North America,Eva,Cloud Platform,94556,51,2024-03-15,2024-06-20
+811,Umbrella,Finance,Prospecting,Europe,Charlie,AI Module,44221,51,2024-06-16,2024-09-09
+812,Umbrella,Retail,Negotiation,Europe,Bob,AI Module,168575,30,2024-08-15,2024-08-29
+813,Acme Corp,Manufacturing,Proposal,North America,Charlie,AI Module,34008,72,2024-06-30,2024-09-01
+814,Stark Industries,Manufacturing,Qualification,North America,Eva,Cloud Platform,184039,84,2024-08-21,2024-10-13
+815,Soylent,Healthcare,Negotiation,North America,Alice,CRM System,115785,17,2024-04-25,2024-07-14
+816,Stark Industries,Technology,Proposal,Europe,Bob,Cloud Platform,153801,65,2024-01-23,2024-05-05
+817,Soylent,Finance,Qualification,South America,Frank,Security Package,162165,71,2024-03-16,2024-06-08
+818,Umbrella,Finance,Closed Lost,North America,David,Cloud Platform,182822,82,2024-08-09,2024-11-15
+819,Stark Industries,Finance,Qualification,Middle East,Alice,Analytics Suite,183341,95,2024-04-15,2024-06-22
+820,Initech,Finance,Qualification,Europe,Alice,AI Module,197517,64,2024-06-29,2024-10-02
+821,Soylent,Retail,Proposal,South America,Frank,Cloud Platform,83478,65,2024-06-09,2024-08-31
+822,Soylent,Finance,Prospecting,Asia,David,Security Package,7078,32,2024-08-31,2024-10-18
+823,Stark Industries,Retail,Closed Lost,South America,Frank,Analytics Suite,10783,25,2024-02-08,2024-05-02
+824,Hooli,Retail,Proposal,Asia,Charlie,CRM System,156690,99,2024-04-06,2024-06-28
+825,Umbrella,Healthcare,Proposal,South America,Bob,Cloud Platform,193975,52,2024-08-17,2024-10-03
+826,Hooli,Healthcare,Negotiation,Europe,Alice,AI Module,30597,43,2024-02-17,2024-05-12
+827,Hooli,Technology,Negotiation,Middle East,Frank,Analytics Suite,44302,48,2024-07-20,2024-08-18
+828,Globex,Finance,Closed Won,Europe,Frank,Cloud Platform,192718,40,2024-06-25,2024-10-13
+829,Soylent,Retail,Proposal,South America,Charlie,Analytics Suite,138539,51,2024-07-29,2024-09-24
+830,Stark Industries,Healthcare,Proposal,South America,David,Analytics Suite,187507,87,2024-09-01,2024-11-03
+831,Hooli,Finance,Closed Won,Asia,Charlie,Analytics Suite,30488,96,2024-05-29,2024-08-07
+832,Hooli,Healthcare,Proposal,North America,Alice,Security Package,19118,45,2024-01-31,2024-03-27
+833,Umbrella,Healthcare,Proposal,Europe,Bob,Cloud Platform,135311,83,2024-04-07,2024-05-16
+834,Wayne Enterprises,Technology,Closed Won,Asia,Bob,Analytics Suite,120726,40,2024-06-09,2024-07-17
+835,Globex,Retail,Closed Won,South America,David,Cloud Platform,112045,22,2024-07-18,2024-09-05
+836,Umbrella,Retail,Closed Won,South America,Charlie,Analytics Suite,47948,72,2024-08-18,2024-11-06
+837,Hooli,Healthcare,Qualification,North America,Eva,AI Module,50343,24,2024-04-09,2024-04-21
+838,Umbrella,Finance,Negotiation,Europe,Bob,Cloud Platform,165328,86,2024-03-06,2024-03-25
+839,Initech,Retail,Closed Won,South America,Eva,Cloud Platform,42283,85,2024-07-29,2024-11-15
+840,Acme Corp,Technology,Qualification,Middle East,Charlie,AI Module,5327,69,2024-07-08,2024-07-26
+841,Stark Industries,Retail,Closed Lost,North America,Charlie,Cloud Platform,33759,64,2024-05-08,2024-05-26
+842,Globex,Technology,Negotiation,North America,Eva,Analytics Suite,90571,96,2024-02-23,2024-03-07
+843,Hooli,Finance,Closed Won,Asia,David,Security Package,14067,63,2024-03-25,2024-06-23
+844,Hooli,Healthcare,Closed Lost,Asia,Eva,Cloud Platform,26352,65,2024-02-23,2024-05-15
+845,Hooli,Finance,Proposal,Asia,Alice,AI Module,119587,76,2024-05-16,2024-08-07
+846,Stark Industries,Finance,Proposal,South America,Eva,Security Package,175276,76,2024-03-19,2024-04-25
+847,Acme Corp,Technology,Negotiation,North America,Eva,Cloud Platform,25452,74,2024-10-21,2024-11-23
+848,Globex,Finance,Prospecting,Europe,David,Analytics Suite,28761,89,2024-09-15,2024-10-22
+849,Stark Industries,Healthcare,Negotiation,Middle East,Alice,CRM System,173872,68,2024-09-16,2024-11-23
+850,Wayne Enterprises,Retail,Qualification,South America,Charlie,CRM System,174384,30,2024-05-26,2024-07-01
+851,Hooli,Technology,Proposal,South America,Alice,Security Package,95835,53,2024-08-30,2024-10-06
+852,Wayne Enterprises,Technology,Closed Lost,Europe,Eva,AI Module,169127,99,2024-09-20,2024-12-03
+853,Globex,Finance,Closed Lost,South America,Frank,Cloud Platform,61918,25,2024-09-05,2024-11-19
+854,Hooli,Finance,Proposal,Europe,Charlie,CRM System,83339,34,2024-09-19,2024-10-21
+855,Stark Industries,Finance,Closed Won,Europe,David,CRM System,90356,70,2024-01-01,2024-02-11
+856,Soylent,Manufacturing,Qualification,North America,Charlie,Cloud Platform,87432,13,2024-01-29,2024-02-26
+857,Initech,Healthcare,Prospecting,South America,David,Cloud Platform,147112,18,2024-01-17,2024-02-21
+858,Initech,Finance,Qualification,South America,Eva,AI Module,35597,30,2024-02-13,2024-05-01
+859,Umbrella,Manufacturing,Qualification,Middle East,Alice,Cloud Platform,89165,77,2024-08-11,2024-10-08
+860,Stark Industries,Technology,Qualification,Europe,Alice,CRM System,101399,57,2024-04-22,2024-07-17
+861,Stark Industries,Healthcare,Qualification,Middle East,Alice,Cloud Platform,181749,56,2024-02-06,2024-04-06
+862,Stark Industries,Manufacturing,Prospecting,Middle East,Frank,Analytics Suite,98930,72,2024-06-16,2024-06-26
+863,Acme Corp,Technology,Qualification,Middle East,Alice,CRM System,96072,29,2024-09-20,2024-11-13
+864,Wayne Enterprises,Retail,Prospecting,Asia,Alice,Security Package,186537,55,2024-06-09,2024-09-10
+865,Hooli,Retail,Negotiation,North America,Bob,AI Module,93608,69,2024-09-27,2024-11-30
+866,Hooli,Healthcare,Closed Lost,Europe,Eva,CRM System,172230,70,2024-04-05,2024-05-16
+867,Wayne Enterprises,Manufacturing,Qualification,South America,Alice,Cloud Platform,72374,68,2024-01-13,2024-01-27
+868,Umbrella,Manufacturing,Closed Won,Asia,Frank,AI Module,193600,16,2024-05-03,2024-08-24
+869,Initech,Technology,Prospecting,Asia,Alice,AI Module,147658,90,2024-01-11,2024-05-05
+870,Umbrella,Retail,Closed Lost,Asia,David,Security Package,99520,73,2024-01-06,2024-04-14
+871,Initech,Retail,Closed Lost,South America,Eva,Analytics Suite,23463,81,2024-05-23,2024-07-17
+872,Initech,Finance,Prospecting,Asia,David,Analytics Suite,154072,97,2024-04-27,2024-08-07
+873,Globex,Manufacturing,Closed Lost,Asia,Alice,Cloud Platform,54350,30,2024-04-24,2024-05-25
+874,Umbrella,Healthcare,Qualification,South America,Eva,Analytics Suite,133522,76,2024-03-25,2024-05-12
+875,Globex,Retail,Closed Won,North America,Eva,AI Module,96926,67,2024-08-20,2024-09-22
+876,Umbrella,Healthcare,Closed Lost,Asia,Eva,Cloud Platform,109630,36,2024-03-21,2024-05-25
+877,Hooli,Healthcare,Closed Lost,Europe,Charlie,Analytics Suite,123964,56,2024-06-26,2024-08-05
+878,Stark Industries,Finance,Closed Won,North America,Bob,Cloud Platform,167371,80,2024-01-27,2024-05-16
+879,Initech,Retail,Qualification,South America,Bob,AI Module,80370,87,2024-05-28,2024-09-11
+880,Hooli,Healthcare,Closed Won,North America,Alice,AI Module,12984,58,2024-06-23,2024-08-15
+881,Initech,Retail,Prospecting,North America,Bob,CRM System,82030,69,2024-01-31,2024-05-20
+882,Soylent,Finance,Closed Lost,Middle East,Eva,Analytics Suite,20210,68,2024-09-12,2024-10-07
+883,Globex,Technology,Qualification,South America,Charlie,Analytics Suite,167362,60,2024-07-05,2024-08-12
+884,Hooli,Technology,Qualification,North America,Bob,Security Package,21854,66,2024-01-28,2024-02-16
+885,Wayne Enterprises,Technology,Qualification,South America,Bob,Analytics Suite,181685,55,2024-04-03,2024-05-21
+886,Stark Industries,Healthcare,Negotiation,Asia,Charlie,Cloud Platform,22125,58,2024-02-07,2024-06-05
+887,Acme Corp,Healthcare,Qualification,South America,David,Cloud Platform,9560,33,2024-01-03,2024-03-30
+888,Umbrella,Healthcare,Proposal,North America,Alice,AI Module,15081,78,2024-10-11,2024-11-16
+889,Hooli,Retail,Proposal,South America,Eva,Cloud Platform,158236,82,2024-07-26,2024-10-11
+890,Acme Corp,Manufacturing,Prospecting,Middle East,Frank,Security Package,30086,26,2024-05-16,2024-09-10
+891,Soylent,Retail,Negotiation,Middle East,Charlie,AI Module,61930,11,2024-06-07,2024-07-26
+892,Initech,Technology,Negotiation,Middle East,David,AI Module,198981,61,2024-03-31,2024-07-18
+893,Globex,Manufacturing,Closed Won,South America,Frank,AI Module,155326,55,2024-09-10,2024-10-14
+894,Wayne Enterprises,Finance,Qualification,North America,Alice,Analytics Suite,28392,90,2024-01-31,2024-05-19
+895,Acme Corp,Manufacturing,Proposal,Asia,David,Cloud Platform,63865,48,2024-04-11,2024-05-16
+896,Globex,Finance,Negotiation,Europe,Alice,Analytics Suite,174776,14,2024-02-10,2024-05-30
+897,Initech,Healthcare,Proposal,Asia,Bob,CRM System,93405,36,2024-01-01,2024-03-24
+898,Globex,Technology,Proposal,Middle East,Charlie,AI Module,44487,85,2024-09-29,2024-11-02
+899,Stark Industries,Healthcare,Qualification,North America,Alice,CRM System,77529,15,2024-04-16,2024-07-23
+900,Globex,Retail,Proposal,South America,Charlie,Analytics Suite,123720,48,2024-05-22,2024-06-18
+901,Wayne Enterprises,Healthcare,Prospecting,South America,Charlie,Cloud Platform,188932,40,2024-07-22,2024-09-04
+902,Hooli,Healthcare,Prospecting,North America,Frank,AI Module,50558,34,2024-04-18,2024-06-30
+903,Umbrella,Manufacturing,Negotiation,North America,David,CRM System,19383,85,2024-05-01,2024-07-08
+904,Stark Industries,Finance,Negotiation,Middle East,Eva,CRM System,158641,55,2024-01-08,2024-02-08
+905,Acme Corp,Technology,Closed Won,Middle East,David,AI Module,98089,27,2024-01-30,2024-05-04
+906,Soylent,Healthcare,Proposal,North America,Frank,Security Package,32895,79,2024-06-16,2024-07-19
+907,Wayne Enterprises,Healthcare,Negotiation,Middle East,David,AI Module,41949,65,2024-07-19,2024-11-15
+908,Globex,Finance,Qualification,Europe,Eva,CRM System,81901,72,2024-06-16,2024-09-08
+909,Globex,Retail,Negotiation,South America,Frank,Analytics Suite,96744,35,2024-04-08,2024-05-03
+910,Hooli,Retail,Prospecting,Middle East,Eva,Analytics Suite,49496,23,2024-02-22,2024-06-12
+911,Soylent,Manufacturing,Proposal,Middle East,David,CRM System,159138,30,2024-04-13,2024-05-30
+912,Stark Industries,Finance,Prospecting,Middle East,Charlie,Analytics Suite,21133,14,2024-06-18,2024-09-30
+913,Stark Industries,Healthcare,Negotiation,North America,Bob,Analytics Suite,22323,89,2024-05-18,2024-06-03
+914,Stark Industries,Retail,Negotiation,Europe,Eva,Security Package,53022,45,2024-03-20,2024-07-02
+915,Acme Corp,Retail,Prospecting,Middle East,Bob,CRM System,137681,68,2024-08-25,2024-12-15
+916,Initech,Technology,Closed Lost,Europe,Charlie,Cloud Platform,135261,71,2024-05-27,2024-07-09
+917,Umbrella,Technology,Closed Won,Europe,Eva,Security Package,61107,50,2024-02-12,2024-05-04
+918,Wayne Enterprises,Manufacturing,Closed Won,North America,Alice,CRM System,128797,12,2024-08-02,2024-10-26
+919,Soylent,Retail,Negotiation,Middle East,Alice,Analytics Suite,182471,81,2024-01-28,2024-03-09
+920,Globex,Retail,Closed Won,Europe,David,Analytics Suite,143168,84,2024-03-14,2024-07-08
+921,Stark Industries,Finance,Prospecting,Middle East,Bob,Cloud Platform,171553,23,2024-10-08,2024-11-16
+922,Initech,Technology,Proposal,Middle East,Alice,Analytics Suite,122874,22,2024-05-25,2024-09-02
+923,Umbrella,Technology,Negotiation,Asia,David,Cloud Platform,39264,85,2024-10-20,2024-12-06
+924,Soylent,Retail,Qualification,South America,David,Analytics Suite,59469,74,2024-03-09,2024-03-28
+925,Globex,Manufacturing,Closed Lost,Middle East,David,AI Module,102598,46,2024-10-02,2025-01-15
+926,Stark Industries,Retail,Closed Won,North America,Frank,AI Module,153166,40,2024-07-04,2024-09-05
+927,Acme Corp,Healthcare,Closed Won,South America,Charlie,Analytics Suite,116287,16,2024-05-12,2024-08-11
+928,Soylent,Technology,Qualification,North America,Bob,Cloud Platform,161813,11,2024-03-03,2024-06-10
+929,Stark Industries,Technology,Closed Lost,North America,Eva,Cloud Platform,174228,27,2024-04-15,2024-05-13
+930,Globex,Finance,Qualification,North America,David,Security Package,138716,51,2024-05-24,2024-09-09
+931,Initech,Manufacturing,Closed Lost,Asia,Eva,AI Module,192454,11,2024-10-14,2025-01-04
+932,Soylent,Finance,Prospecting,South America,Alice,Security Package,123518,48,2024-10-24,2025-01-16
+933,Wayne Enterprises,Technology,Closed Lost,North America,Charlie,Cloud Platform,50824,90,2024-04-11,2024-04-21
+934,Umbrella,Manufacturing,Prospecting,Asia,Frank,Analytics Suite,39323,22,2024-05-26,2024-07-08
+935,Acme Corp,Retail,Closed Won,South America,Eva,AI Module,165505,74,2024-05-07,2024-08-18
+936,Soylent,Retail,Closed Lost,North America,David,CRM System,186883,62,2024-04-26,2024-07-20
+937,Hooli,Manufacturing,Proposal,North America,Charlie,Analytics Suite,189705,96,2024-07-31,2024-11-16
+938,Soylent,Healthcare,Prospecting,Middle East,David,Cloud Platform,37286,42,2024-02-04,2024-05-05
+939,Hooli,Retail,Closed Lost,South America,Charlie,AI Module,14719,90,2024-06-17,2024-09-10
+940,Acme Corp,Finance,Prospecting,Europe,Eva,Cloud Platform,174709,37,2024-07-25,2024-10-22
+941,Hooli,Retail,Negotiation,North America,Eva,Cloud Platform,93035,44,2024-03-30,2024-07-19
+942,Initech,Retail,Closed Lost,North America,Alice,CRM System,102484,34,2024-04-12,2024-07-12
+943,Umbrella,Healthcare,Negotiation,North America,Frank,Cloud Platform,186273,12,2024-01-24,2024-04-12
+944,Globex,Retail,Prospecting,Middle East,Bob,Cloud Platform,176537,40,2024-03-04,2024-03-25
+945,Wayne Enterprises,Finance,Proposal,Middle East,Frank,Cloud Platform,108760,40,2024-06-24,2024-07-06
+946,Initech,Finance,Closed Won,Middle East,David,CRM System,117911,79,2024-02-02,2024-03-09
+947,Globex,Finance,Qualification,South America,David,Security Package,92030,73,2024-04-29,2024-06-18
+948,Stark Industries,Technology,Closed Lost,Asia,Alice,Cloud Platform,127959,98,2024-03-26,2024-04-30
+949,Hooli,Retail,Prospecting,South America,Frank,Cloud Platform,105351,16,2024-08-04,2024-10-28
+950,Umbrella,Retail,Proposal,Asia,Charlie,Analytics Suite,27440,87,2024-07-10,2024-10-31
+951,Initech,Manufacturing,Proposal,Europe,Frank,AI Module,68771,27,2024-04-18,2024-05-10
+952,Soylent,Healthcare,Proposal,South America,Charlie,AI Module,168082,47,2024-10-22,2025-01-26
+953,Initech,Technology,Prospecting,North America,Eva,AI Module,147600,92,2024-06-05,2024-09-07
+954,Globex,Retail,Prospecting,Europe,Eva,AI Module,23161,29,2024-05-22,2024-07-03
+955,Wayne Enterprises,Finance,Closed Lost,North America,David,AI Module,82460,76,2024-04-26,2024-07-02
+956,Soylent,Technology,Closed Lost,Asia,Bob,Analytics Suite,148596,66,2024-01-31,2024-04-04
+957,Acme Corp,Technology,Proposal,Middle East,David,CRM System,41559,33,2024-03-05,2024-03-16
+958,Initech,Finance,Proposal,Asia,Frank,AI Module,173158,27,2024-05-19,2024-07-21
+959,Initech,Manufacturing,Closed Lost,South America,Charlie,Analytics Suite,36923,70,2024-10-20,2024-11-18
+960,Soylent,Retail,Prospecting,Europe,Bob,Analytics Suite,92897,43,2024-05-08,2024-08-04
+961,Initech,Healthcare,Closed Won,Europe,Bob,Cloud Platform,15724,61,2024-04-29,2024-06-21
+962,Wayne Enterprises,Manufacturing,Prospecting,Europe,Alice,AI Module,132544,28,2024-10-17,2025-01-18
+963,Soylent,Healthcare,Negotiation,Asia,Eva,Analytics Suite,90758,52,2024-01-19,2024-04-11
+964,Acme Corp,Healthcare,Proposal,South America,Bob,Analytics Suite,123409,82,2024-10-15,2024-12-13
+965,Initech,Retail,Closed Won,Middle East,Frank,Analytics Suite,81654,51,2024-04-28,2024-06-13
+966,Stark Industries,Technology,Qualification,Europe,David,Analytics Suite,138983,86,2024-08-03,2024-09-16
+967,Globex,Finance,Prospecting,Middle East,Charlie,Security Package,173099,11,2024-07-29,2024-08-14
+968,Initech,Healthcare,Proposal,Europe,Eva,Analytics Suite,27985,67,2024-10-16,2024-11-16
+969,Soylent,Manufacturing,Prospecting,Europe,Frank,CRM System,192785,86,2024-09-22,2024-11-08
+970,Soylent,Retail,Qualification,Asia,David,CRM System,184984,74,2024-07-15,2024-10-15
+971,Globex,Retail,Prospecting,North America,Charlie,AI Module,61423,70,2024-05-11,2024-08-09
+972,Globex,Manufacturing,Closed Won,Europe,David,AI Module,188053,43,2024-04-19,2024-07-08
+973,Soylent,Healthcare,Qualification,North America,David,AI Module,46840,53,2024-01-13,2024-04-11
+974,Hooli,Healthcare,Negotiation,Asia,Eva,Analytics Suite,173488,49,2024-05-19,2024-07-06
+975,Soylent,Healthcare,Negotiation,Europe,Charlie,AI Module,66877,66,2024-09-12,2025-01-05
+976,Initech,Manufacturing,Proposal,South America,David,AI Module,184091,33,2024-08-17,2024-11-12
+977,Soylent,Healthcare,Negotiation,Europe,Bob,CRM System,180994,32,2024-04-26,2024-07-02
+978,Globex,Manufacturing,Prospecting,Europe,Frank,AI Module,159252,86,2024-05-28,2024-06-27
+979,Initech,Retail,Closed Won,South America,Frank,Cloud Platform,143249,76,2024-07-20,2024-07-31
+980,Soylent,Manufacturing,Negotiation,South America,Eva,Analytics Suite,129969,99,2024-09-07,2024-11-04
+981,Acme Corp,Finance,Proposal,Europe,Alice,Analytics Suite,58283,68,2024-01-26,2024-03-22
+982,Globex,Technology,Prospecting,Middle East,Bob,Analytics Suite,33195,26,2024-02-15,2024-04-18
+983,Hooli,Technology,Proposal,Asia,Charlie,Cloud Platform,161122,94,2024-09-16,2024-10-26
+984,Wayne Enterprises,Finance,Proposal,Middle East,Frank,Security Package,116921,61,2024-01-20,2024-03-03
+985,Acme Corp,Manufacturing,Closed Won,Europe,Bob,Security Package,183464,69,2024-06-28,2024-09-17
+986,Initech,Technology,Closed Lost,North America,David,CRM System,40579,88,2024-03-15,2024-05-15
+987,Globex,Finance,Closed Won,South America,Alice,Security Package,47316,15,2024-02-24,2024-04-25
+988,Initech,Healthcare,Proposal,South America,Eva,Cloud Platform,159019,57,2024-07-15,2024-09-09
+989,Umbrella,Finance,Proposal,North America,Frank,CRM System,66035,26,2024-05-14,2024-08-26
+990,Globex,Technology,Negotiation,Asia,Alice,Analytics Suite,196236,10,2024-03-09,2024-06-12
+991,Initech,Manufacturing,Negotiation,Asia,Frank,AI Module,70002,57,2024-02-10,2024-04-06
+992,Acme Corp,Manufacturing,Qualification,Europe,Bob,Analytics Suite,109361,32,2024-04-06,2024-06-22
+993,Initech,Manufacturing,Closed Lost,Europe,Alice,AI Module,175166,92,2024-06-01,2024-09-23
+994,Soylent,Technology,Closed Won,South America,Charlie,AI Module,68541,38,2024-02-20,2024-03-26
+995,Stark Industries,Healthcare,Closed Lost,North America,Frank,Analytics Suite,68491,85,2024-07-21,2024-11-12
+996,Soylent,Manufacturing,Negotiation,North America,David,Cloud Platform,98723,48,2024-06-27,2024-08-17
+997,Acme Corp,Retail,Proposal,Middle East,David,Analytics Suite,123105,83,2024-06-13,2024-09-17
+998,Initech,Healthcare,Negotiation,Asia,Charlie,Cloud Platform,161081,11,2024-05-26,2024-08-09
+999,Globex,Finance,Qualification,Asia,David,Security Package,137777,25,2024-04-20,2024-08-07
+1000,Acme Corp,Retail,Negotiation,Europe,Eva,Security Package,128858,30,2024-06-30,2024-09-12
